@@ -1,0 +1,6 @@
+<settings version="2">
+    <setting id="main_url">http://xxxxxx</setting>
+    <setting id="port_num">12345</setting>
+    <setting id="deviceUser">uuuuuu</setting>
+    <setting id="devicePass">pppppp</setting>
+</settings>
