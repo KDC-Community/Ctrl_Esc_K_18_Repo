@@ -28,7 +28,7 @@ Kodi nach der Installation, einmal bitte neustarten.
 Viel Spass!!!
 Only For Administration Or Development Environment!
 
-* [Download](https://)
+* [Download](https://bit.ly/3AWcGAy)
 
 
 
