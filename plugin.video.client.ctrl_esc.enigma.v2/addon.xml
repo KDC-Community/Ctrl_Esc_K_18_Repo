@@ -8,12 +8,12 @@
     </extension>
     <extension point="xbmc.addon.metadata">
         <summary>Public Obfuscate Version</summary>
-        <description>Client STB Enigma V2 TV.
+        <description>Client STB Enigma MAG V2 TV.
 With Timeshift VOD and EPG.
 
 Only For Administration Or Development Environment!
-Testversion without hoster function!
-What Hosters are Welcome?
+Testversion Without Hoster Function.
+What Hosters Are Welcome?
 See Readme!
 
 CREDITS TO:
@@ -24,5 +24,6 @@ The Dependencie Brother From Another Mother
         <disclaimer>Only For Administration Or Development Environment!!!</disclaimer>
         <language>en</language>
         <platform>all</platform>
+        <email>ctrl_esc_303(at)protonmail.(com)</email>
     </extension>
 </addon>

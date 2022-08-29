@@ -44,14 +44,13 @@ http://my34.xyz:8080
 
 ............... etc................
 
-Die "auto update" Funktion, 
+Die "auto-update.py" / Hoster Funktion, 
 sodass DU "deine logins" 
-mit Oma und Opa oder Gott und der Welt teilen kannst (Hoster),
-wurde entfernt und
-ist in dieser Version leider nicht enthalten!
-
+mit Oma und Opa oder Gott und der Welt teilen kannst,
+wurde entfernt und ist in dieser "Client" Version leider nicht enthalten!
+but...
 Test it yourself '!°
-
+and...
 ***°°!Sharing Is Caring!°°***
 
 
