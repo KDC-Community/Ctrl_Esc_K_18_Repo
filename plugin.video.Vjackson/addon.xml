@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<addon id="plugin.video.Vjackson" name="Video-Jackson" version="4.8.1" provider-name="The Dependencie Brothers From Another Mothers">
+    <requires>
+        <import addon="xbmc.python" version="2.1.0"/>
+    </requires>
+    <extension point="xbmc.python.pluginsource" library="default.py">
+        <provides>video</provides>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <platform>all</platform>
+        <summary>Encrypted Version</summary>
+        <language>en</language>
+        <description lang="en">Video-Jackson API Addon.
+
+Without the "service module" you have no permission to access, no fun at all and nothing works!
+ 
+		</description>
+        <source></source>
+        <disclaimer>Only For Administration Or Development Environment!!!</disclaimer>
+        <forum></forum>
+        <email></email>
+        <website></website>
+    </extension>
+</addon>
