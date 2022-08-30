@@ -20,13 +20,14 @@ In der ""update.py"", in Line 17,
 deine Daten eintragen 
 und dann funktioniert auch das Update für Oma und Opa und Gott und die Welt
 über einen Update Button im Addon!°
-(Hoster Funktion ist in der public Encrypted Version nicht verfügbar!!!)
+(Diese Funktion ist in der public Encrypted Version nicht verfügbar!!!)
 
 Kodi nach der Installation, einmal bitte neustarten.
 
+Only For Administration Or Development Environment!
 
 Viel Spass!!!
-Only For Administration Or Development Environment!
+
 
 * [Download](https://bit.ly/3AWcGAy)
 
