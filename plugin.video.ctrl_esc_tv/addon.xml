@@ -13,7 +13,7 @@
   <provides>video</provides>
 </extension>
 <extension point="xbmc.addon.metadata">
-  <summary>Encrypted Version</summary>
+  <summary>Public Obfuscate Version</summary>
   <description>Ctrl_Esc Television ist ein Video Addon.
 
 Man kann "Eigene" Inhalte in die "videos.json" Datei eintragen
