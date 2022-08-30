@@ -1,14 +1,18 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="plugin.video.client.ctrl_esc.enigma.v2" version="4.8.1" name="[B][COLOR antiquewhite]Client [/COLOR][COLOR lime] Ctrl_Esc [/COLOR][COLOR antiquewhite] Enigma V2 [/COLOR][/B]" provider-name="Ctrl_Esc">
-    <requires>
-        <import addon="xbmc.python" version="2.1.0"/>        
-    </requires>
-    <extension point="xbmc.python.pluginsource" library="default.py">
-        <provides>video</provides>
-    </extension>
-    <extension point="xbmc.addon.metadata">
-        <summary>Public Obfuscate Version</summary>
-        <description>Client STB Enigma MAG V2 TV.
+<addon id="plugin.video.client.ctrl_esc.enigma.v2"
+       name="[B][COLOR antiquewhite]Client [/COLOR][COLOR lime] Ctrl_Esc [/COLOR][COLOR antiquewhite] Enigma V2 [/COLOR][/B]"
+       version="4.8.1"
+       provider-name="Ctrl_Esc">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+    <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <platform>all</platform>
+    <summary>Public Obfuscate Version</summary>
+    <description>Client STB Enigma MAG V2 TV.
 With Timeshift VOD and EPG.
 
 Only For Administration Or Development Environment!
@@ -19,11 +23,13 @@ See Readme!
 CREDITS TO:
 
 The Dependencie Brother From Another Mother
-
 </description>
-        <disclaimer>Only For Administration Or Development Environment!!!</disclaimer>
-        <language>en</language>
-        <platform>all</platform>
-        <email>ctrl_esc_303(at)protonmail.(com)</email>
-    </extension>
+    <disclaimer>Only For Administration Or Development Environment!!! Die von diesem Addon dargestellten Inhalte werden weder von den Erstellern dieses Addons gehostet, noch stehen der oder die Ersteller dieses Addons in irgendeiner Beziehung zu den Content-Anbietern. Only For Administration Or Development Environment!!!</disclaimer>
+    <assets>
+      <icon>icon.png</icon>
+      <fanart>fanart.jpg</fanart>
+      <email>ctrl_esc_303(at)protonmail.(com)</email>
+    </assets>
+    <news>Public Obfuscate Version</news>
+  </extension>
 </addon>
