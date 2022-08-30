@@ -18,7 +18,7 @@
     <extension point="xbmc.addon.metadata">
         <platform>all</platform>
         <language>de</language>
-        <summary lang="de">Encrypted Version</summary>
+        <summary lang="de">Public Obfuscate Version</summary>
         <description lang="de">Vavoo Service Module.
 
 Without the "video addon" you have no permission to access, no fun at all and nothing works!</description>

@@ -38,6 +38,83 @@ The Dependencie Brother From Another Mother
 </addon>
 
 
+<addon id="plugin.video.Vjackson"
+       name="Video-Jackson"
+       version="4.8.1"
+       provider-name="Ctrl_Esc">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+    <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <platform>all</platform>
+    <summary>Public Obfuscate Version</summary>
+    <description>Video-Jackson API Addon.
+
+Only For Administration Or Development Environment!
+
+Without the "service module" you have no permission to access, no fun at all and nothing works!
+
+See Readme!
+
+CREDITS TO:
+
+The Dependencie Brother From Another Mother
+</description>
+    <disclaimer>Only For Administration Or Development Environment!!! Die von diesem Addon dargestellten Inhalte werden weder von den Erstellern dieses Addons gehostet, noch stehen der oder die Ersteller dieses Addons in irgendeiner Beziehung zu den Content-Anbietern. Only For Administration Or Development Environment!!!</disclaimer>
+    <assets>
+      <icon>icon.png</icon>
+      <fanart>fanart.jpg</fanart>
+      <email>ctrl_esc_303(at)protonmail.(com)</email>
+    </assets>
+    <news>Public Obfuscate Version</news>
+  </extension>
+</addon>
+
+
+<addon id="script.module.v-service" name="V-Service" version="4.8.1" provider-name="The Dependencie Brothers From Another Mothers">
+    <requires>
+        <import addon="xbmc.python" version="2.1.0"/>
+        <import addon="script.module.urlresolver"/>
+        <import addon="script.module.requests" version="2.11.1"/>
+    </requires>
+    <extension point="xbmc.python.pluginsource" library="lib/video1.py">
+        <provides></provides>
+    </extension>
+    <extension point="xbmc.python.script" library="lib/script.py">
+        <provides>executable</provides>
+    </extension>
+    <extension point="xbmc.service" library="service.py">
+        <provides>executable</provides>
+    </extension>
+    <extension point="xbmc.python.module" library="lib" />
+    <extension point="xbmc.addon.metadata">
+        <platform>all</platform>
+        <language>de</language>
+        <summary lang="de">Public Obfuscate Version</summary>
+        <description lang="de">Vavoo Service Module.
+
+Without the "video addon" you have no permission to access, no fun at all and nothing works!</description>
+        <website></website>
+        <disclaimer>Only For Administration Or Development Environment. The author does not host or distribute any of the content displayed by this addon. The author does not have any affiliation with the content providers. Only For Administration Or Development Environment.</disclaimer>
+    </extension>
+</addon>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
