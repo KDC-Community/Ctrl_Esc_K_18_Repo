@@ -1,0 +1,48 @@
+ name - Discovery" plugin://script.module.esc/play/652/play.pvr   (RealName)   -Discovery
+ name - 3 sat" plugin://script.module.esc/play/657/play.pvr   (RealName)   -3 Sat
+ name - ARD" plugin://script.module.esc/play/665/play.pvr   (RealName)   -ARD Alpha
+ name - Arte" plugin://script.module.esc/play/380/play.pvr   (RealName)   -Arte
+ name - Boomerang" plugin://script.module.esc/play/381/play.pvr   (RealName)   -Boomerang
+ name - Dmax" plugin://script.module.esc/play/384/play.pvr   (RealName)   -none
+ name - Fox" plugin://script.module.esc/play/653/play.pvr   (RealName)   -none
+ name - Kabel 1" plugin://script.module.esc/play/386/play.pvr   (RealName)   -Kabel 1
+ name - Kika" plugin://script.module.esc/play/387/play.pvr   (RealName)   -KiKa
+ name - ORF 2" plugin://script.module.esc/play/390/play.pvr   (RealName)   -ORF 2
+ name - ORF Eins" plugin://script.module.esc/play/391/play.pvr   (RealName)   -ORF 1
+ name - Pro 7" plugin://script.module.esc/play/392/play.pvr   (RealName)   -Pro 7
+ name - Pro 7 Max" plugin://script.module.esc/play/393/play.pvr   (RealName)   -Pro 7 Maxx
+ name - RTL" plugin://script.module.esc/play/394/play.pvr   (RealName)   -none
+ name - RTL 2" plugin://script.module.esc/play/395/play.pvr   (RealName)   -RTL 2
+ name - RTL Nitro" plugin://script.module.esc/play/396/play.pvr   (RealName)   -Nitro
+ name - SAT.1" plugin://script.module.esc/play/397/play.pvr   (RealName)   -Sat 1
+ name - Sixx" plugin://script.module.esc/play/398/play.pvr   (RealName)   -Sixx
+ name - Sky 1 DE" plugin://script.module.esc/play/597/play.pvr   (RealName)   -Sky Sport Top Event
+ name - Super RTL" plugin://script.module.esc/play/406/play.pvr   (RealName)   -Super RTL
+ name - Syfy" plugin://script.module.esc/play/407/play.pvr   (RealName)   -Syfy
+ name - TNT" plugin://script.module.esc/play/656/play.pvr   (RealName)   -none
+ name - TNT comedy" plugin://script.module.esc/play/654/play.pvr   (RealName)   -Warner Comedy
+ name - TNT serie" plugin://script.module.esc/play/655/play.pvr   (RealName)   -Warner Serie
+ name - VOX" plugin://script.module.esc/play/408/play.pvr   (RealName)   -none
+ name - ZDF" plugin://script.module.esc/play/409/play.pvr   (RealName)   -ZDF
+ name - ZDF Neo" plugin://script.module.esc/play/671/play.pvr   (RealName)   -ZDF Neo
+ name - Cartoon Network" plugin://script.module.esc/play/651/play.pvr   (RealName)   -Cartoon Network
+ name - Cinemagic" plugin://script.module.esc/play/634/play.pvr   (RealName)   -Sky Cinema Special
+ name - Disney Channel" plugin://script.module.esc/play/383/play.pvr   (RealName)   -none
+ name - Sky action" plugin://script.module.esc/play/400/play.pvr   (RealName)   -none
+ name - Sky cinema" plugin://script.module.esc/play/402/play.pvr   (RealName)   -Sky Cinema Premieren
+ name - Sky Emotion" plugin://script.module.esc/play/399/play.pvr   (RealName)   -none
+ name - N24" plugin://script.module.esc/play/388/play.pvr   (RealName)   -none
+ name - NTV" plugin://script.module.esc/play/389/play.pvr   (RealName)   -NTV
+ name - Dazn1" plugin://script.module.esc/play/777/play.pvr   (RealName)   -none
+ name - Dazn2" plugin://script.module.esc/play/778/play.pvr   (RealName)   -none
+ name - Eurosport" plugin://script.module.esc/play/385/play.pvr   (RealName)   -Eurosport
+ name - Sky Bundesliga 1" plugin://script.module.esc/play/401/play.pvr   (RealName)   -none
+ name - Sky Bundesliga 2" plugin://script.module.esc/play/431/play.pvr   (RealName)   -none
+ name - Sky Bundesliga 3" plugin://script.module.esc/play/432/play.pvr   (RealName)   -none
+ name - Sky Bundesliga 4" plugin://script.module.esc/play/433/play.pvr   (RealName)   -none
+ name - Sky Bundesliga 5" plugin://script.module.esc/play/434/play.pvr   (RealName)   -none
+ name - Sky Bundesliga 6" plugin://script.module.esc/play/435/play.pvr   (RealName)   -none
+ name - Sky Bundesliga 7" plugin://script.module.esc/play/436/play.pvr   (RealName)   -none
+ name - Sky Bundesliga 8" plugin://script.module.esc/play/437/play.pvr   (RealName)   -none
+ name - Sky sport 1 DE" plugin://script.module.esc/play/404/play.pvr   (RealName)   -Sky Sport 1
+ name - Sport 1" plugin://script.module.esc/play/405/play.pvr   (RealName)   -Sky Sport 1
