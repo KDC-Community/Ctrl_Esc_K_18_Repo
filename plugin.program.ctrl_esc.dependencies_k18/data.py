@@ -1,4 +1,4 @@
-Ctrl_Esc Abhängigkeiten K-18-4.8.1*https://bit.ly/*Ctrl_Esc_Dependencies.png
+Ctrl_Esc Abhängigkeiten K-18-4.8.1*https://kdc-community.github.io/Ctrl_Esc_K_18_Repo/plugin.program.ctrl_esc.dependencies_k18/plugin.program.ctrl_esc.dependencies_k18-4.8.1.zip*Ctrl_Esc_Dependencies.png
 
 Ctrl_Esc_K_18_Repo-4.8.1*https://kdc-community.github.io/Ctrl_Esc_K_18_Repo/repository.ctrl_esc_K18/repository.ctrl_esc_K18-4.8.1.zip*Ctrl_Esc_Repo.png
 Ctrl_Esc GUI Sounds-1.0.0*https://bit.ly/3QF4jzi*ctrl_esc_ui.png
