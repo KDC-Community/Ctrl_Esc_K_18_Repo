@@ -14,7 +14,7 @@ Falls erforderlich:
 - und erst dann ein Addon installieren.
 
 
-* [Ctrl_Esc_K_18_Dependencies](https://bit.ly/3AyX5FI)
+* [Ctrl_Esc_K_18_Dependencies](https://kdc-community.github.io/Ctrl_Esc_K_18_Repo/plugin.program.ctrl_esc.dependencies_k18/plugin.program.ctrl_esc.dependencies_k18-4.8.1.zip)
 
 
 
