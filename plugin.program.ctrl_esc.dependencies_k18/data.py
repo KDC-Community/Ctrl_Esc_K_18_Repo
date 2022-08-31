@@ -115,25 +115,21 @@ plugin.video.lastship-4.0.7.1.1*https://bit.ly/3QDBhjv*lastship.png
 
 
 repository.xstream-1.1.9*https://bit.ly/3bnb8VV*xStreamRepo.png
-plugin.video.xstream-3.5.34*https://bit.ly/3zXsseK*x_addon.png
-xstream-script.module.resolveurl-5.1.69*https://bit.ly/3xQGs70*resolve_url.png
+plugin.video.xstream-3.5.35*https://bit.ly/3wM0XlL*x_addon.png
+xstream-script.module.resolveurl-5.1.74*https://bit.ly/3pWVR27*resolve_url.png
 
 
 
-MyTV-STB-MAG-Client-4.8.1*https://kdc-community.github.io/kdc_git_repo/
-MyTV-MAC-Client-4.8.1*https://kdc-community.github.io/kdc_git_repo/
+MyTV-STB-MAG-Client-4.8.1*https://kdc-community.github.io/Ctrl_Esc_K_18_Repo/plugin.video.client.ctrl_esc.mytv/plugin.video.client.ctrl_esc.mytv-4.8.1.zip*ctrl_esc_mytv.png
+MyTV-MAC-Client-4.8.1*https://kdc-community.github.io/Ctrl_Esc_K_18_Repo/plugin.video.client.ctrl_esc.mytv.mac/plugin.video.client.ctrl_esc.mytv.mac-4.8.1.zip*ctrl_esc_mytv_mac.png
 
 
-CDN_TV-STB-MAG-Client-4.8.1*https://kdc-community.github.io/kdc_git_repo/
-CDN_TV-MAC-Client-4.8.1*https://kdc-community.github.io/kdc_git_repo/
+ENIGMA_V2_Multi-STB-Line_Client-4.8.1*https://kdc-community.github.io/Ctrl_Esc_K_18_Repo/plugin.video.client.ctrl_esc.enigma.v2/plugin.video.client.ctrl_esc.enigma.v2-4.8.1.zip*ctrl_esc_enigma.png
 
 
-ENIGMA_V2_Multi-STB-Line_Client-4.8.1*https://kdc-community.github.io/kdc_git_repo/plugin.video.client.ctrl_esc.enigma.v2/plugin.video.client.ctrl_esc.enigma.v2-4.8.1
 
-
-Video-Jackson-API-Interface-4.8.1*https://kdc-community.github.io/kdc_git_repo/plugin.video.Vjackson
-Video-Jackson-API-Service_Module-4.8.1*https://kdc-community.github.io/kdc_git_repo/script.module.v-service
-
+Video-Jackson-API-Service_Module-4.8.1*https://kdc-community.github.io/Ctrl_Esc_K_18_Repo/script.module.v-service/script.module.v-service-4.8.1.zip*service._v.png
+Video-Jackson-API-Interface-4.8.1*https://kdc-community.github.io/Ctrl_Esc_K_18_Repo/plugin.video.Vjackson/plugin.video.Vjackson-4.8.1.zip*service._v_addon.png
 
 
 service.thoradia Pi3-9.2.0.23*https://bit.ly/39H5Lkd*thoradia.png
