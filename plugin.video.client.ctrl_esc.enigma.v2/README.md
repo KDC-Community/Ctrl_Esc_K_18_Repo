@@ -20,7 +20,7 @@ In der ""update.py"", in Line 17,
 deine Daten eintragen 
 und dann funktioniert auch das Update für Oma und Opa und Gott und die Welt
 über einen Update Button im Addon!°
-(Diese Funktion ist in der public Encrypted Version nicht verfügbar!!!)
+(Diese Funktion ist in der Public Obfuscate Version nicht verfügbar!!!)
 
 Kodi nach der Installation, einmal bitte neustarten.
 

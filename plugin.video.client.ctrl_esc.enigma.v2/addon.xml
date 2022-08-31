@@ -25,11 +25,11 @@ CREDITS TO:
 
 The Dependencie Brother From Another Mother
 </description>
-    <disclaimer>Only For Administration Or Development Environment!!! Die von diesem Addon dargestellten Inhalte werden weder von den Erstellern dieses Addons gehostet, noch stehen der oder die Ersteller dieses Addons in irgendeiner Beziehung zu den Content-Anbietern. Only For Administration Or Development Environment!!!</disclaimer>
+    <disclaimer>Only For Administration Or Development Environment. The author does not host or distribute any of the content displayed by this addon. The author does not have any affiliation with the content providers. Only For Administration Or Development Environment.</disclaimer>
     <assets>
       <icon>icon.png</icon>
       <fanart>fanart.jpg</fanart>
-      <email>ctrl_esc_303(at)protonmail.(com)</email>
+      <email></email>
     </assets>
     <news>Public Obfuscate Version</news>
   </extension>

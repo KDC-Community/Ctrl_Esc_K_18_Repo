@@ -1,4 +1,4 @@
-![Control Escape TV](icon.png)
+![Control Escape TV](icon.gif)
 
 *** Ctrl_Esc Television ***
 
@@ -24,12 +24,8 @@ etc...
 --------------------------------------------------------------------------------------------
 --------------------------------------------------------------------------------------------
 
-In der Datei: ""videos.json"", kann somit ganz geschmeidig, Inhalt von ""DIR"",
-in der ""videos.json"", hinzu- / eingefügt werden!  °!°
 
-In der ""video.json"", kannst DU , wie gesagt, sehr einfach "DEINE" Inhalte hinzu- / und / -oder einfügen und nutzen
-und deine ""videos.json"" Inhalte 
-untereinander / miteinander "teilen"!°
+In der ""video.json"", kannst DU , sehr einfach "DEINE" Inhalte hinzu- / und / -oder einfügen und nutzen.
 
 Siehe daher doch einmal in die "video.json" Datei 
 und trage "Deinen" eigenen Inhalt hinzu 
@@ -45,10 +41,6 @@ denn:
 
 
 HAVE FUN!!!!
-
-Ctrl_Esc
-and
-The Dependencie Brother From Another Mother
 
 --------------------------------------------------------------------------------------------
 --------------------------------------------------------------------------------------------
@@ -114,11 +106,7 @@ Optional, oder weitere "Script Module"
 
 --------------------------------------------------------------------------------------------
 --------------------------------------------------------------------------------------------
-***°°!Sharing Is Caring!°°***
-Have Fun and 
-""share YOUR .json with the Community""!!!°
---------------------------------------------------------------------------------------------
---------------------------------------------------------------------------------------------
+
 Best Regards
 
 Control_Escape
@@ -126,3 +114,6 @@ and
 The Dependencie Brother From Another Mother
 --------------------------------------------------------------------------------------------
 --------------------------------------------------------------------------------------------
+Public Obfuscate Version
+
+* [Download](https://bit.ly/)
