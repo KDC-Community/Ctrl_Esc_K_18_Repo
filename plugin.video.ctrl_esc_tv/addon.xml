@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addon id="plugin.video.ctrl_esc_tv"
-	   version="4.8.1"
+       version="4.8.1"
        name="Control Escape TV"
        provider-name="Ctrl_Esc">
 <requires>

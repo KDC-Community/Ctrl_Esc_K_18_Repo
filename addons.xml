@@ -20,6 +20,7 @@ With Timeshift VOD and EPG.
 
 Only For Administration Or Development Environment!
 Testversion Without Hoster Function.
+
 What Hosters Are Welcome?
 See Readme!
 
@@ -27,11 +28,11 @@ CREDITS TO:
 
 The Dependencie Brother From Another Mother
 </description>
-    <disclaimer>Only For Administration Or Development Environment!!! Die von diesem Addon dargestellten Inhalte werden weder von den Erstellern dieses Addons gehostet, noch stehen der oder die Ersteller dieses Addons in irgendeiner Beziehung zu den Content-Anbietern. Only For Administration Or Development Environment!!!</disclaimer>
+    <disclaimer>Only For Administration Or Development Environment. The author does not host or distribute any of the content displayed by this addon. The author does not have any affiliation with the content providers. Only For Administration Or Development Environment.</disclaimer>
     <assets>
       <icon>icon.png</icon>
       <fanart>fanart.jpg</fanart>
-      <email>ctrl_esc_303(at)protonmail.(com)</email>
+      <email></email>
     </assets>
     <news>Public Obfuscate Version</news>
   </extension>
@@ -53,7 +54,7 @@ The Dependencie Brother From Another Mother
   <provides>video</provides>
 </extension>
 <extension point="xbmc.addon.metadata">
-  <summary>Encrypted Version</summary>
+  <summary>Public Obfuscate Version</summary>
   <description>Ctrl_Esc Television ist ein Video Addon.
 
 Man kann "Eigene" Inhalte in die "videos.json" Datei eintragen
@@ -105,11 +106,11 @@ CREDITS TO:
 
 The Dependencie Brother From Another Mother
 </description>
-    <disclaimer>Only For Administration Or Development Environment!!! Die von diesem Addon dargestellten Inhalte werden weder von den Erstellern dieses Addons gehostet, noch stehen der oder die Ersteller dieses Addons in irgendeiner Beziehung zu den Content-Anbietern. Only For Administration Or Development Environment!!!</disclaimer>
+    <disclaimer>Only For Administration Or Development Environment. The author does not host or distribute any of the content displayed by this addon. The author does not have any affiliation with the content providers. Only For Administration Or Development Environment.</disclaimer>
     <assets>
       <icon>icon.png</icon>
       <fanart>fanart.jpg</fanart>
-      <email>ctrl_esc_303(at)protonmail.(com)</email>
+      <email></email>
     </assets>
     <news>Public Obfuscate Version</news>
   </extension>
@@ -145,7 +146,22 @@ Without the "video addon" you have no permission to access, no fun at all and no
 </addon>
 
 
-
+<addon id="repository.ctrl_esc_K18" 
+       name="[B][COLOR antiquewhite]Control [/B][/COLOR][B][COLOR red] Escape [/B][/COLOR][B][COLOR antiquewhite] K18 Repository [/B][/COLOR]"
+       version="3.0.3"
+       provider-name="Ctrl_Esc">
+    <extension point="xbmc.addon.repository" name="Ctrl Esc K18 Repository">
+		<info compressed="false">https://raw.githubusercontent.com/KDC-Community/Ctrl_Esc_K_18_Repo/master/addons.xml</info>
+		<checksum>https://raw.githubusercontent.com/KDC-Community/Ctrl_Esc_K_18_Repo/master/addons.xml.md5</checksum>
+		<datadir zip="true">https://raw.githubusercontent.com/KDC-Community/Ctrl_Esc_K_18_Repo/master/zips/</datadir>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <summary>Public Obfuscate Version</summary>
+        <description>Ctrl_Esc_K_18_Repo...</description>
+        <platform>all</platform>
+   
+    </extension>
+</addon>
 
 
 
