@@ -39,7 +39,7 @@
     	<setting id="portal_url_3" type="text" label="30001" default="http://mytv.fun" />
    	 	<setting label="30008" type="bool" id="custom_mac_3" default="true"/>
    	 	<setting id="portal_mac_3" type="text" label="30002" default="00:1a:79:50:18:d7" visible="eq(-1,true)" />
-   	 	<setting id="port_num_2" type="text" label="30003" default="12345" visible="eq(-1,true)" />
+   	 	<setting id="port_num_3" type="text" label="30003" default="12345" visible="eq(-1,true)" />
    	 	
    	 	<setting label="30009" type="bool" id="send_serial_3" default="false"/>
    	 	<setting label="30014" type="bool" id="custom_serial_3" default="false" visible="eq(-1,true)"/>

@@ -20,6 +20,6 @@ Viel Spass!!!
 
 Only For Administration Or Development Environment!
 
-* [Download](https://github.com/KDC-Community/Ctrl_Esc_K_18_Repo/raw/main/plugin.video.client.ctrl_esc.mytv.mac/plugin.video.client.ctrl_esc.mytv.mac-4.8.1.zip)
+* [Download](https://kdc-community.github.io/Ctrl_Esc_K_18_Repo/plugin.video.client.ctrl_esc.mytv.mac/plugin.video.client.ctrl_esc.mytv.mac-4.8.1.zip)
 
 
