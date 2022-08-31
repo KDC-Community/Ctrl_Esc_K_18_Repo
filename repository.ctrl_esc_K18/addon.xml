@@ -4,13 +4,13 @@
 	   version="3.0.3"
 	   provider-name="Ctrl_Esc">
     <extension point="xbmc.addon.repository" name="Ctrl Esc K18 Repository">
-		<info compressed="false">https://raw.githubusercontent.com/KDC-Community/kdc_git_repo/master/addons.xml</info>
-		<checksum>https://raw.githubusercontent.com/KDC-Community/kdc_git_repo/master/addons.xml.md5</checksum>
-		<datadir zip="true">https://raw.githubusercontent.com/KDC-Community/kdc_git_repo/master/zips/</datadir>
+		<info compressed="false">https://raw.githubusercontent.com/KDC-Community/Ctrl_Esc_K_18_Repo/master/addons.xml</info>
+		<checksum>https://raw.githubusercontent.com/KDC-Community/Ctrl_Esc_K_18_Repo/master/addons.xml.md5</checksum>
+		<datadir zip="true">https://raw.githubusercontent.com/KDC-Community/Ctrl_Esc_K_18_Repo/master/zips/</datadir>
     </extension>
     <extension point="xbmc.addon.metadata">
         <summary>Public Obfuscate Version</summary>
-        <description>Ctrl_Esc K18 - Repo...</description>
+        <description>Ctrl_Esc_K_18_Repo...</description>
         <platform>all</platform>
    
     </extension>
