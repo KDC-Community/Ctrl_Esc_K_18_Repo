@@ -1,7 +1,7 @@
 # XBMC KODI Leia
 Control_Escape_REPOsitory Kodi18 (Leia)
 
-![Repo-logo](https://i.ibb.co/BTYDtBq/icon.png)
+![Repo-logo](https://i.ibb.co/BTYDtBq/icon.png) #https://i.ibb.co/BTYDtBq/icon.png
 
 REPOSITORY for Kodi Leia Addons.
 

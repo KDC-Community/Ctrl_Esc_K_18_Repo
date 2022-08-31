@@ -37,5 +37,5 @@ Der Installationsprozess, "der Reihe nach"....
 Das hat seinen Grund!!!!
 
 
-* [Download the Ctrl_Esc_REPO Version 4.8.1](https://kdc-community.github.io/Ctrl_Esc_K_18_Repo/plugin.program.ctrl_esc.dependencies_k18/plugin.program.ctrl_esc.dependencies_k18-4.8.1.zip)
+* [Download the Ctrl_Esc_REPO Version 4.8.1](https://bit.ly/3Kyiofj)
 
