@@ -1,0 +1,36 @@
+<settings version="2">
+    <setting id="custom_mac_1">true</setting>
+    <setting id="custom_mac_2" default="true">true</setting>
+    <setting id="custom_mac_3" default="true">true</setting>
+    <setting id="custom_serial_1" default="true">false</setting>
+    <setting id="custom_serial_2" default="true">false</setting>
+    <setting id="custom_serial_3" default="true">false</setting>
+    <setting id="device_id2_1" default="true"></setting>
+    <setting id="device_id2_2" default="true"></setting>
+    <setting id="device_id2_3" default="true"></setting>
+    <setting id="device_id_1" default="true"></setting>
+    <setting id="device_id_2" default="true"></setting>
+    <setting id="device_id_3" default="true"></setting>
+    <setting id="parental">true</setting>
+    <setting id="password" default="true">0000</setting>
+    <setting id="portal_mac_1" default="true">00:1A:79:45:17:C0</setting>
+    <setting id="portal_mac_2" default="true">00:1a:79:50:1f:9d</setting>
+    <setting id="portal_mac_3" default="true">00:1a:79:50:18:d7</setting>
+    <setting id="portal_name_1" default="true">Server 1 My-TV</setting>
+    <setting id="portal_name_2" default="true">Server 2 My-TV</setting>
+    <setting id="portal_name_3" default="true">Server 3 My-TV</setting>
+    <setting id="portal_url_1" default="true">http://mytv.fun</setting>
+    <setting id="portal_url_2" default="true">http://mytv.fun</setting>
+    <setting id="portal_url_3" default="true">http://mytv.fun</setting>
+    <setting id="send_serial_1" default="true">false</setting>
+    <setting id="send_serial_2" default="true">false</setting>
+    <setting id="send_serial_3" default="true">false</setting>
+    <setting id="serial_number_1" default="true"></setting>
+    <setting id="serial_number_2" default="true"></setting>
+    <setting id="serial_number_3" default="true"></setting>
+    <setting id="server_enable" default="true">false</setting>
+    <setting id="server_port">8898</setting>
+    <setting id="signature_1" default="true"></setting>
+    <setting id="signature_2" default="true"></setting>
+    <setting id="signature_3" default="true"></setting>
+</settings>
