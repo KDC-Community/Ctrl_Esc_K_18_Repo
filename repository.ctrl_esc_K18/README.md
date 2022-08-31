@@ -1,4 +1,4 @@
-![Ctrl_Esc_K_18_Repository](icon.png)
+![Ctrl_Esc_K_18_Repository](fanart.jpg)
 
 KODI Leia - Control Escape K18 Repository.
 
