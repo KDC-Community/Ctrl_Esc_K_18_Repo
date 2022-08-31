@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="plugin.video.client.ctrl_esc.mytv.mac"
+       name="[B][COLOR antiquewhite]Client [/COLOR][COLOR lime] Ctrl_Esc [/COLOR][COLOR antiquewhite] MyTV - MAC Client[/COLOR][/B]"
+       version="4.8.1"
+       provider-name="Ctrl_Esc">
+    <requires>
+		<import addon="xbmc.python" version="2.14.0"/>
+	</requires>
+	<extension point="xbmc.python.pluginsource" library="addon.py">
+		<provides>video</provides>
+	</extension>
+	<extension point="xbmc.service" library="server.py" start="startup" />
+	<extension point="xbmc.addon.metadata">
+		<platform>all</platform>
+		<summary lang="en">MyTV Mac STB - Stalker Client and Server addon. Kodi Leia.</summary>
+		<description lang="en">My-TV Stalker STB-MAC MAG Client and "Server" addon.
+With the "Server option"
+you can """re-Stream"""
+your "Line" to your friends / parents 
+or in your local client network area (xbmc-clients, TV, whatever..).
+See "Readme" !°
+To enter the vortex:
+You need legit
+Hoster- and Mac- Adress.
+Credits to:
+esxbr, Control_Escape and the Dependencie Brothers
+From Another Mothers.</description>
+		<license></license>
+		<disclaimer>Only For Administration Or Development Environment. The author does not host or distribute any of the content displayed by this addon. The author does not have any affiliation with the content providers. Only For Administration Or Development Environment.</disclaimer>
+		<language></language>
+		<forum></forum>
+		<source></source>
+		<email></email>
+	</extension>
+</addon>

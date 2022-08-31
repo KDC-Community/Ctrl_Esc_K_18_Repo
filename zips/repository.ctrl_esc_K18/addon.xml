@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="repository.ctrl_esc_K18" 
+       name="[B][COLOR antiquewhite]Control [/B][/COLOR][B][COLOR red] Escape [/B][/COLOR][B][COLOR antiquewhite] K18 Repository [/B][/COLOR]"
+       version="4.8.1"
+       provider-name="Ctrl_Esc">
+    <extension point="xbmc.addon.repository" name="repository.ctrl_esc_K18">
+		<info compressed="false">https://raw.githubusercontent.com/KDC-Community/Ctrl_Esc_K_18_Repo/master/addons.xml</info>
+		<checksum>https://raw.githubusercontent.com/KDC-Community/Ctrl_Esc_K_18_Repo/master/addons.xml.md5</checksum>
+		<datadir zip="true">https://raw.githubusercontent.com/KDC-Community/Ctrl_Esc_K_18_Repo/master/zips/</datadir>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <summary>Public Obfuscate Version</summary>
+        <description>Ctrl_Esc_K_18_Repo...</description>
+        <platform>all</platform>
+   
+    </extension>
+</addon>
