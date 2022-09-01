@@ -1,10 +1,10 @@
-Ctrl_Esc Abhängigkeiten K-18-4.8.1*https://raw.githubusercontent.com/kdc-community/Ctrl_Esc_K_18_Repo/master/plugin.program.ctrl_esc.dependencies_k18/plugin.program.ctrl_esc.dependencies_k18-4.8.1.zip*Ctrl_Esc_Dependencies.png
+Ctrl_Esc Abhängigkeiten K-18-4.8.1*https://raw.githubusercontent.com/kdc-community/Ctrl_Esc_K_18_Repo/master/plugin.program.ctrl_esc.dependencies_k18/plugin.program.ctrl_esc.dependencies_k18-4.8.1.zip*module.png
 
-Ctrl_Esc_K_18_Repo-4.8.1*https://raw.githubusercontent.com/kdc-community/Ctrl_Esc_K_18_Repo/master/repository.ctrl_esc_K18/repository.ctrl_esc_K18-4.8.1.zip*Ctrl_Esc_Repo.png
+Ctrl_Esc_K_18_Repo-4.8.1*https://raw.githubusercontent.com/kdc-community/Ctrl_Esc_K_18_Repo/master/repository.ctrl_esc_K18/repository.ctrl_esc_K18-4.8.1.zip*module.png
 Ctrl_Esc GUI Sounds-1.0.0*https://bit.ly/3QF4jzi*ctrl_esc_ui.png
 
 Ctrl_Esc I Love Hirschmilch-4.8.1*https://bit.ly/3QMDJUt*hirschmilch.png
-Ctrl_Esc_TV-4.8.1*https://raw.githubusercontent.com/kdc-community/Ctrl_Esc_K_18_Repo/master/plugin.video.ctrl_esc_tv/plugin.video.ctrl_esc_tv-4.8.1.zip*Ctrl_Esc_TV.png
+Ctrl_Esc_TV-4.8.1*https://raw.githubusercontent.com/kdc-community/Ctrl_Esc_K_18_Repo/master/plugin.video.ctrl_esc_tv/plugin.video.ctrl_esc_tv-4.8.1.zip*module.png
 
 
 
