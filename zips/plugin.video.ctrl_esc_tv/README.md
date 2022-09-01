@@ -118,4 +118,4 @@ Public Obfuscate Version
 
 Only For Administration Or Development Environment!
 
-* [Download](https://kdc-community.github.io/Ctrl_Esc_K_18_Repo/plugin.video.ctrl_esc_tv/plugin.video.ctrl_esc_tv-4.8.1.zip)
+* [Download](https://bit.ly/3wJDphu)

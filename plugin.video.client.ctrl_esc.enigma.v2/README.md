@@ -29,7 +29,7 @@ Only For Administration Or Development Environment!
 Viel Spass!!!
 
 
-* [Download](https://bit.ly/3AWcGAy)
+* [Download](https://bit.ly/3RsMd3k)
 
 
 
