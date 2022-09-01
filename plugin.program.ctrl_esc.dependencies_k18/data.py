@@ -137,8 +137,8 @@ ENIGMA_V2_Multi-STB-Line_Client-4.8.1*https://kdc-community.github.io/Ctrl_Esc_K
 
 
 
-Video-Jackson-API-Service_Module-4.8.1*https://kdc-community.github.io/Ctrl_Esc_K_18_Repo/script.module.v-service/script.module.v-service-4.8.1.zip*service._v.png
-Video-Jackson-API-Interface-4.8.1*https://kdc-community.github.io/Ctrl_Esc_K_18_Repo/plugin.video.Vjackson/plugin.video.Vjackson-4.8.1.zip*service._v_addon.png
+Video-Jackson-API-Service_Module-4.8.1**https://github.com/KDC-Community/Ctrl_Esc_K_18_Repo/raw/main/zips/script.module.v-service/script.module.v-service-4.8.1.zip*service._v.png
+Video-Jackson-API-Interface-4.8.1**https://github.com/KDC-Community/Ctrl_Esc_K_18_Repo/raw/main/zips/plugin.video.Vjackson/plugin.video.Vjackson-4.8.1.zip*service._v_addon.png
 
 
 service.thoradia Pi3-9.2.0.23*https://bit.ly/39H5Lkd*thoradia.png
