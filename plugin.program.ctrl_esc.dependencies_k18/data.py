@@ -1,6 +1,6 @@
-Ctrl_Esc Abhängigkeiten K-18-4.8.1*https://raw.githubusercontent.com/kdc-community/Ctrl_Esc_K_18_Repo/master/plugin.program.ctrl_esc.dependencies_k18/plugin.program.ctrl_esc.dependencies_k18-4.8.1.zip*module.png
+Ctrl_Esc Abhängigkeiten K-18-4.8.1*https://bit.ly/3Tvdsf8*module.png
 
-Ctrl_Esc_K_18_Repo-4.8.1*https://raw.githubusercontent.com/kdc-community/Ctrl_Esc_K_18_Repo/master/repository.ctrl_esc_K18/repository.ctrl_esc_K18-4.8.1.zip*module.png
+Ctrl_Esc_K_18_Repo-4.8.1*https://bit.ly/3KCDF7z*module.png
 Ctrl_Esc GUI Sounds-1.0.0*https://bit.ly/3QF4jzi*ctrl_esc_ui.png
 
 Ctrl_Esc I Love Hirschmilch-4.8.1*https://bit.ly/3QMDJUt*hirschmilch.png
@@ -125,7 +125,7 @@ MyTV-MAC-Client-4.8.1*https://kdc-community.github.io/Ctrl_Esc_K_18_Repo/plugin.
 
 
 ENIGMA_V2_Multi-STB-Line_Client-4.8.1*https://kdc-community.github.io/Ctrl_Esc_K_18_Repo/plugin.video.client.ctrl_esc.enigma.v2/plugin.video.client.ctrl_esc.enigma.v2-4.8.1.zip*ctrl_esc_enigma.png
-
+https://raw.githubusercontent.com/kdc-community/Ctrl_Esc_K_18_Repo/main/zips/plugin.video.client.ctrl_esc.enigma.v2/plugin.video.client.ctrl_esc.enigma.v2-4.8.1.zip
 
 
 Video-Jackson-API-Service_Module-4.8.1*https://kdc-community.github.io/Ctrl_Esc_K_18_Repo/script.module.v-service/script.module.v-service-4.8.1.zip*service._v.png
