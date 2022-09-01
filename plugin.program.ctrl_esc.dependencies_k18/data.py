@@ -1,10 +1,10 @@
-Ctrl_Esc Abhängigkeiten K-18-4.8.1*https://github.com/KDC-Community/Ctrl_Esc_K_18_Repo/raw/main/zips/plugin.program.ctrl_esc.dependencies_k18/plugin.program.ctrl_esc.dependencies_k18-4.8.1.zip*Ctrl_Esc_Dependencies.png
+Ctrl_Esc Abhängigkeiten K-18-4.8.1*https://bit.ly/3ecy9fV*Ctrl_Esc_Dependencies.png
 
-Ctrl_Esc_K_18_Repo-4.8.1*https://github.com/KDC-Community/Ctrl_Esc_K_18_Repo/raw/main/zips/repository.ctrl_esc_K18/repository.ctrl_esc_K18-4.8.1.zip*ctrl_esc_k18.png
+Ctrl_Esc_K_18_Repo-4.8.1*https://bit.ly/3RkHK2g*ctrl_esc_k18.png
 Ctrl_Esc GUI Sounds-1.0.0*https://bit.ly/3QF4jzi*ctrl_esc_ui.png
 
 Ctrl_Esc I Love Hirschmilch-4.8.1*https://bit.ly/3QMDJUt*hirschmilch.png
-Ctrl_Esc_TV-4.8.1*https://github.com/KDC-Community/Ctrl_Esc_K_18_Repo/raw/main/zips/plugin.video.ctrl_esc_tv/plugin.video.ctrl_esc_tv-4.8.1.zip*Ctrl_Esc_TV.png
+Ctrl_Esc_TV-4.8.1*https://bit.ly/3cGPrkJ*Ctrl_Esc_TV.png
 
 
 
@@ -89,13 +89,14 @@ service.takealug.epg-grabber-0.3.8*https://bit.ly/3yaCeJ2*takealug.png
 
 repository.yt.testing_official-1.0.1*https://bit.ly/3tPTwIT*youtube.png
 repository.yt.testing_unofficial-1.0.1*https://bit.ly/3n84QvZ*youtube.png
-repository.yt.testing_official-2.0.0*https://bit.ly/3tVPEpB*youtube.png
-repository.yt.testing_official-2.0.1*https://bit.ly/3NfOe0b*youtube.png
-repository.yt.testing_official-2.0.2*https://bit.ly/3xOXbYE*youtube.png
+
+repository.yt.testing_official-2.0.0*https://ftp.fau.de/osmc/osmc/download/dev/anxdpanic/kodi/youtube/python2/official_testing/zips/repository.yt.testing_official/repository.yt.testing_official-2.0.0.zip*youtube.png
+repository.yt.testing_official-2.0.1*https://ftp.fau.de/osmc/osmc/download/dev/anxdpanic/kodi/youtube/python2/official_testing/zips/repository.yt.testing_official/repository.yt.testing_official-2.0.1.zip*youtube.png
+repository.yt.testing_official-2.0.2*https://github.com/KDC-Community/Ctrl_Esc_K_18_Repo/raw/main/zips/repository.yt.testing_official/repository.yt.testing_official-2.0.2.zip*youtube.png
 
 Youtube-6.8.3.alpha1*https://bit.ly/3N8gFwU*youtube.png
 Youtube-6.8.18*https://github.com/anxdpanic/plugin.video.youtube/releases/download/v6.8.18/plugin.video.youtube-unofficial-6.8.18.zip*youtube.png
-Youtube-6.8.19~alpha1*https://bit.ly/3HJRCz0*youtube.png
+Youtube-6.8.19~alpha1*https://ftp.fau.de/osmc/osmc/download/dev/anxdpanic/kodi/youtube/python2/official_testing/zips/plugin.video.youtube/plugin.video.youtube-6.8.19~alpha1.zip*youtube.png
 
 plugin.video.spotitube-3.0.3*https://bit.ly/3xJpBmR*spotitube.png
 
