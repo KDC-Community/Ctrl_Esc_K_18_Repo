@@ -6,7 +6,7 @@
     <extension point="xbmc.addon.repository" name="repository.ctrl_esc_K18">
 		<info compressed="false">https://raw.githubusercontent.com/KDC-Community/Ctrl_Esc_K_18_Repo/master/addons.xml</info>
 		<checksum>https://raw.githubusercontent.com/KDC-Community/Ctrl_Esc_K_18_Repo/master/addons.xml.md5</checksum>
-		<datadir zip="true">https://raw.githubusercontent.com/KDC-Community/Ctrl_Esc_K_18_Repo/master/</datadir>
+		<datadir zip="true">https://raw.githubusercontent.com/KDC-Community/Ctrl_Esc_K_18_Repo/master/zips</datadir>
     </extension>
     <extension point="xbmc.addon.metadata">
         <summary>Public Obfuscate Version</summary>
