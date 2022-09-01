@@ -125,7 +125,7 @@ MyTV-MAC-Client-4.8.1*https://kdc-community.github.io/Ctrl_Esc_K_18_Repo/plugin.
 
 
 ENIGMA_V2_Multi-STB-Line_Client-4.8.1*https://kdc-community.github.io/Ctrl_Esc_K_18_Repo/plugin.video.client.ctrl_esc.enigma.v2/plugin.video.client.ctrl_esc.enigma.v2-4.8.1.zip*ctrl_esc_enigma.png
-https://raw.githubusercontent.com/kdc-community/Ctrl_Esc_K_18_Repo/main/zips/plugin.video.client.ctrl_esc.enigma.v2/plugin.video.client.ctrl_esc.enigma.v2-4.8.1.zip
+
 
 
 Video-Jackson-API-Service_Module-4.8.1*https://kdc-community.github.io/Ctrl_Esc_K_18_Repo/script.module.v-service/script.module.v-service-4.8.1.zip*service._v.png
