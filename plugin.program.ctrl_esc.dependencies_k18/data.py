@@ -78,7 +78,14 @@ script.module.resolveurl-5.1.66*https://bit.ly/3Oh4X4y*resolve_url.png
 script.module.resolveurl-5.1.67*https://bit.ly/3HMbr8Z*resolve_url.png
 script.module.resolveurl-5.1.68*https://bit.ly/3HL90n1*resolve_url.png
 script.module.resolveurl-5.1.69*https://bit.ly/3n8jP9c*resolve_url.png
-script.module.resolveurl-5.1.70*https://bit.ly/3QBkZI9*resolve_url.png
+script.module.resolveurl-5.1.70*https://bit.ly/3ACNxtt*resolve_url.png
+script.module.resolveurl-5.1.71*https://bit.ly/3RnMILR*resolve_url.png
+script.module.resolveurl-5.1.72*https://bit.ly/3Axt8pE*resolve_url.png
+script.module.resolveurl-5.1.73*https://bit.ly/3pXKZkI*resolve_url.png
+script.module.resolveurl-5.1.74*https://bit.ly/3R7EXd5*resolve_url.png
+script.module.resolveurl-5.1.75*https://bit.ly/3q15JYU*resolve_url.png
+
+
 
 
 plugin.video.live.streamspro-2.8.1*https://bit.ly/3gwEA9U*LSPro.png
@@ -90,13 +97,13 @@ service.takealug.epg-grabber-0.3.8*https://bit.ly/3yaCeJ2*takealug.png
 repository.yt.testing_official-1.0.1*https://bit.ly/3tPTwIT*youtube.png
 repository.yt.testing_unofficial-1.0.1*https://bit.ly/3n84QvZ*youtube.png
 
-repository.yt.testing_official-2.0.0*https://ftp.fau.de/osmc/osmc/download/dev/anxdpanic/kodi/youtube/python2/official_testing/zips/repository.yt.testing_official/repository.yt.testing_official-2.0.0.zip*youtube.png
-repository.yt.testing_official-2.0.1*https://ftp.fau.de/osmc/osmc/download/dev/anxdpanic/kodi/youtube/python2/official_testing/zips/repository.yt.testing_official/repository.yt.testing_official-2.0.1.zip*youtube.png
+repository.yt.testing_official-2.0.0*https://github.com/KDC-Community/Ctrl_Esc_K_18_Repo/raw/main/zips/repository.yt.testing_official/repository.yt.testing_official-2.0.0.zip*youtube.png
+repository.yt.testing_official-2.0.1*https://github.com/KDC-Community/Ctrl_Esc_K_18_Repo/raw/main/zips/repository.yt.testing_official/repository.yt.testing_official-2.0.1.zip*youtube.png
 repository.yt.testing_official-2.0.2*https://github.com/KDC-Community/Ctrl_Esc_K_18_Repo/raw/main/zips/repository.yt.testing_official/repository.yt.testing_official-2.0.2.zip*youtube.png
 
 Youtube-6.8.3.alpha1*https://bit.ly/3N8gFwU*youtube.png
-Youtube-6.8.18*https://github.com/anxdpanic/plugin.video.youtube/releases/download/v6.8.18/plugin.video.youtube-unofficial-6.8.18.zip*youtube.png
-Youtube-6.8.19~alpha1*https://ftp.fau.de/osmc/osmc/download/dev/anxdpanic/kodi/youtube/python2/official_testing/zips/plugin.video.youtube/plugin.video.youtube-6.8.19~alpha1.zip*youtube.png
+Unofficial Youtube-6.8.18*https://github.com/anxdpanic/plugin.video.youtube/releases/download/v6.8.18/plugin.video.youtube-unofficial-6.8.18.zip*youtube.png
+Unofficial Youtube-6.8.19~alpha1*https://github.com/KDC-Community/Ctrl_Esc_K_18_Repo/raw/main/zips/plugin.video.youtube/plugin.video.youtube-6.8.19~alpha1.zip*youtube.png
 
 plugin.video.spotitube-3.0.3*https://bit.ly/3xJpBmR*spotitube.png
 
