@@ -92,8 +92,9 @@ repository.yt.testing_unofficial-1.0.1*https://bit.ly/3n84QvZ*youtube.png
 repository.yt.testing_official-2.0.0*https://bit.ly/3tVPEpB*youtube.png
 repository.yt.testing_official-2.0.1*https://bit.ly/3NfOe0b*youtube.png
 repository.yt.testing_official-2.0.2*https://bit.ly/3xOXbYE*youtube.png
+
 Youtube-6.8.3.alpha1*https://bit.ly/3N8gFwU*youtube.png
-Youtube-6.8.18*https://bit.ly/3OvPSMb*youtube.png
+Youtube-6.8.18*https://github.com/anxdpanic/plugin.video.youtube/releases/download/v6.8.18/plugin.video.youtube-unofficial-6.8.18.zip*youtube.png
 Youtube-6.8.19~alpha1*https://bit.ly/3HJRCz0*youtube.png
 
 plugin.video.spotitube-3.0.3*https://bit.ly/3xJpBmR*spotitube.png
