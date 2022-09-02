@@ -1,7 +1,7 @@
 Ctrl_Esc Abhängigkeiten K-18-4.8.1*https://bit.ly/3ecy9fV*Ctrl_Esc_Dependencies.png
 
 Ctrl_Esc_K_18_Repo-4.8.1*https://bit.ly/3RkHK2g*ctrl_esc_k18.png
-Ctrl_Esc GUI Sounds-1.0.0*https://github.com/KDC-Community/Ctrl_Esc_K_18_Repo/raw/main/zips/resource.uisounds.ctrl_esc/resource.uisounds.ctrl_esc-1.0.0.zip*ctrl_esc_ui.png
+Ctrl_Esc GUI Sounds-1.0.0*https://bit.ly/3BakxdZ*ctrl_esc_ui.png
 
 Ctrl_Esc I Love Hirschmilch-4.8.1*https://bit.ly/3QMDJUt*hirschmilch.png
 Ctrl_Esc_TV-4.8.1*https://bit.ly/3cGPrkJ*Ctrl_Esc_TV.png
