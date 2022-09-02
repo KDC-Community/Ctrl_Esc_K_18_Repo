@@ -11,10 +11,10 @@ Ctrl_Esc_TV-4.8.1*https://bit.ly/3cGPrkJ*Ctrl_Esc_TV.png
 
 script.module.six-1.15.0*https://mirrors.kodi.tv/addons/leia/script.module.six/script.module.six-1.15.0.zip*module.png
 script.module.elementtree-1.2.8*https://mirrors.kodi.tv/addons/leia/script.module.elementtree/script.module.elementtree-1.2.8.zip*module.png
-script.module.cryptopy-1.2.6*https://kdc-community.github.io/kdc_git_repo/script.module.cryptopy/script.module.cryptopy-1.2.6.zip*module.png
+script.module.cryptopy-1.2.6*https://bit.ly/3q5TYAe*module.png
 script.module.backports.functools_lru_cache-1.6.1*https://mirrors.kodi.tv/addons/leia/script.module.backports.functools_lru_cache/script.module.backports.functools_lru_cache-1.6.1.zip*module.png
-script.module.soupsieve-1.9.6+leia.1*https://kdc-community.github.io/kdc_git_repo/script.module.soupsieve/script.module.soupsieve-2.26.0.zip*module.png
-script.module.brotli-1.0.7*https://kdc-community.github.io/kdc_git_repo/script.module.brotli/script.module.brotli.zip*module.png
+script.module.soupsieve-1.9.6+leia.1*https://bit.ly/3RtXnog*module.png
+script.module.brotli-1.0.7*https://bit.ly/3CXG7nl*module.png
 script.module.beautifulsoup-3.2.1*https://mirrors.kodi.tv/addons/leia/script.module.beautifulsoup/script.module.beautifulsoup-3.2.1.zip*module.png
 script.module.beautifulsoup4-4.9.3*https://mirrors.kodi.tv/addons/leia/script.module.beautifulsoup4/script.module.beautifulsoup4-4.9.3.zip*module.png
 script.module.urllib3-1.26.9*https://mirrors.kodi.tv/addons/leia/script.module.urllib3/script.module.urllib3-1.26.9.zip*module.png
@@ -24,23 +24,23 @@ script.module.idna-2.10.0*https://mirrors.kodi.tv/addons/leia/script.module.idna
 script.module.certifi-2021.10.8*https://mirrors.kodi.tv/addons/leia/script.module.certifi/script.module.certifi-2021.10.8.zip*module.png
 script.module.requests-cache-0.4.13*https://mirrors.kodi.tv/addons/leia/script.module.requests-cache/script.module.requests-cache-0.4.13.zip*module.png
 script.module.requests-2.27.1*https://mirrors.kodi.tv/addons/leia/script.module.requests/script.module.requests-2.27.1.zip*module.png
-script.module.requests_toolbelt-0.9.1*https://kdc-community.github.io/kdc_git_repo/script.module.requests_toolbelt/script.module.requests_toolbelt-0.9.1.zip*module.png
-script.module.cfscrape-2020.01.07*https://kdc-community.github.io/kdc_git_repo/script.module.cfscrape/script.module.cfscrape-2020.01.07.zip*module.png
+script.module.requests_toolbelt-0.9.1*https://bit.ly/3cKVll0*module.png
+script.module.cfscrape-2020.01.07*https://bit.ly/3AMqWL9*module.png
 script.module.win_inet_pton-1.1.0*https://mirrors.kodi.tv/addons/leia/script.module.win_inet_pton/script.module.win_inet_pton-1.1.0.zip*module.png
 script.module.addon.common-2.0.0*https://mirrors.kodi.tv/addons/leia/script.module.addon.common/script.module.addon.common-2.0.0.zip*module.png
 script.module.myconnpy-1.1.7*https://mirrors.kodi.tv/addons/leia/script.module.myconnpy/script.module.myconnpy-1.1.7.zip*module.png
 script.module.clouddrive.common-1.3.9*https://mirrors.kodi.tv/addons/leia/script.module.clouddrive.common/script.module.clouddrive.common-1.3.9.zip*module.png
-script.module.cryptopy.common-1.2.6*https://kdc-community.github.io/kdc_git_repo/script.module.cryptopy.common/script.module.cryptopy.common-1.2.6.zip*module.png
+script.module.cryptopy.common-1.2.6*https://bit.ly/3KPECtu*module.png
 script.module.simplejson-3.16.1*https://mirrors.kodi.tv/addons/leia/script.module.simplejson/script.module.simplejson-3.16.1.zip*module.png
-script.module.metahandler-3.0.3*https://kdc-community.github.io/kdc_git_repo/script.module.metahandler/script.module.metahandler-3.0.3.zip*module.png
-script.module.mutagen-2019.10.10*https://kdc-community.github.io/kdc_git_repo/script.module.mutagen/script.module.mutagen-2019.10.10.zip*module.png
+script.module.metahandler-3.0.3*https://bit.ly/3q8H04O*module.png
+script.module.mutagen-2019.10.10*https://bit.ly/3QevgbN*module.png
 script.module.routing-0.2.3*https://mirrors.kodi.tv/addons/leia/script.module.routing/script.module.routing-0.2.3.zip*module.png
-script.module.pycryptodome-3.4.1*https://kdc-community.github.io/kdc_git_repo/script.module.pycryptodome/script.module.pycryptodome-3.4.1.zip*module.png
+script.module.pycryptodome-3.4.1*https://bit.ly/3QrNerv*module.png
 script.module.parsedom-2.5.2*https://mirrors.kodi.tv/addons/leia/script.module.parsedom/script.module.parsedom-2.5.2.zip*module.png
-script.module.pydes-2.0.1*https://kdc-community.github.io/kdc_git_repo/script.module.pydes/script.module.pydes-2.0.1.zip*module.png
+script.module.pydes-2.0.1*https://bit.ly/3KGwtaH*module.png
 script.module.future-0.17.1*https://mirrors.kodi.tv/addons/leia/script.module.future/script.module.future-0.17.1.zip*module.png
 script.module.kodi-six-0.1.3*https://mirrors.kodi.tv/addons/leia/script.module.kodi-six/script.module.kodi-six-0.1.3.zip*module.png
-script.module.metadatautils-1.0.40*https://kdc-community.github.io/kdc_git_repo/script.module.metadatautils/script.module.metadatautils-1.0.40.zip*module.png
+script.module.metadatautils-1.0.40*https://bit.ly/3AETu9g*module.png
 script.module.xbmcswift2-13.0.4*https://kdc-community.github.io/kdc_git_repo/script.module.xbmcswift2/script.module.xbmcswift2-13.0.4.zip*module.png
 script.module.simpleplugin3-3.0.6*https://mirrors.kodi.tv/addons/leia/script.module.simpleplugin3/script.module.simpleplugin3-3.0.6.zip*module.png
 
@@ -97,13 +97,13 @@ service.takealug.epg-grabber-0.3.8*https://bit.ly/3yaCeJ2*takealug.png
 repository.yt.testing_official-1.0.1*https://bit.ly/3tPTwIT*youtube.png
 repository.yt.testing_unofficial-1.0.1*https://bit.ly/3n84QvZ*youtube.png
 
-repository.yt.testing_official-2.0.0*https://github.com/KDC-Community/Ctrl_Esc_K_18_Repo/raw/main/zips/repository.yt.testing_official/repository.yt.testing_official-2.0.0.zip*youtube.png
-repository.yt.testing_official-2.0.1*https://github.com/KDC-Community/Ctrl_Esc_K_18_Repo/raw/main/zips/repository.yt.testing_official/repository.yt.testing_official-2.0.1.zip*youtube.png
-repository.yt.testing_official-2.0.2*https://github.com/KDC-Community/Ctrl_Esc_K_18_Repo/raw/main/zips/repository.yt.testing_official/repository.yt.testing_official-2.0.2.zip*youtube.png
+repository.yt.testing_official-2.0.0*https://bit.ly/3B9KU3T*youtube.png
+repository.yt.testing_official-2.0.1*https://bit.ly/3RfHS3J*youtube.png
+repository.yt.testing_official-2.0.2*https://bit.ly/3cK0Dxa*youtube.png
 
 Youtube-6.8.3.alpha1*https://bit.ly/3N8gFwU*youtube.png
-Unofficial Youtube-6.8.18*https://github.com/anxdpanic/plugin.video.youtube/releases/download/v6.8.18/plugin.video.youtube-unofficial-6.8.18.zip*youtube.png
-Unofficial Youtube-6.8.19~alpha1*https://github.com/KDC-Community/Ctrl_Esc_K_18_Repo/raw/main/zips/plugin.video.youtube/plugin.video.youtube-6.8.19~alpha1.zip*youtube.png
+Unofficial Youtube-6.8.18*https://bit.ly/3AILSTa*youtube.png
+Unofficial Youtube-6.8.19~alpha1*https://bit.ly/3KLBPS8*youtube.png
 
 plugin.video.spotitube-3.0.3*https://bit.ly/3xJpBmR*spotitube.png
 
@@ -129,16 +129,16 @@ xstream-script.module.resolveurl-5.1.74*https://bit.ly/3pWVR27*resolve_url.png
 
 
 
-MyTV-STB-MAG-Client-4.8.1*https://github.com/KDC-Community/Ctrl_Esc_K_18_Repo/raw/main/zips/plugin.video.client.ctrl_esc.mytv/plugin.video.client.ctrl_esc.mytv-4.8.1.zip*ctrl_esc_mytv.png
-MyTV-MAC-Client-4.8.1*https://github.com/KDC-Community/Ctrl_Esc_K_18_Repo/raw/main/zips/plugin.video.client.ctrl_esc.mytv.mac/plugin.video.client.ctrl_esc.mytv.mac-4.8.1.zip*ctrl_esc_mytv_mac.png
+MyTV-STB-MAG-Client-4.8.1*https://bit.ly/3AJSOQ2*ctrl_esc_mytv.png
+MyTV-MAC-Client-4.8.1*https://bit.ly/3CPiTzP*ctrl_esc_mytv_mac.png
 
 
-ENIGMA_V2_Multi-STB-Line_Client-4.8.1*https://github.com/KDC-Community/Ctrl_Esc_K_18_Repo/raw/main/zips/plugin.video.client.ctrl_esc.enigma.v2/plugin.video.client.ctrl_esc.enigma.v2-4.8.1.zip*ctrl_esc_enigma.png
+ENIGMA_V2_Multi-STB-Line_Client-4.8.1*https://bit.ly/3D21CmS*ctrl_esc_enigma.png
 
 
 
-Video-Jackson-API-Service_Module-4.8.1*https://github.com/KDC-Community/Ctrl_Esc_K_18_Repo/raw/main/zips/script.module.v-service/script.module.v-service-4.8.1.zip*service._v.png
-Video-Jackson-API-Interface-4.8.1*https://github.com/KDC-Community/Ctrl_Esc_K_18_Repo/raw/main/zips/plugin.video.Vjackson/plugin.video.Vjackson-4.8.1.zip*service._v_addon.png
+Video-Jackson-API-Service_Module-4.8.1*https://bit.ly/3Q969Hb*service._v.png
+Video-Jackson-API-Interface-4.8.1*https://bit.ly/3ee9l7b*service._v_addon.png
 
 
 service.thoradia Pi3-9.2.0.23*https://bit.ly/39H5Lkd*thoradia.png
