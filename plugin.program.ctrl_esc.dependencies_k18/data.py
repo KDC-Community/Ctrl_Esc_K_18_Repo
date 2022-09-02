@@ -9,25 +9,25 @@ Ctrl_Esc_TV-4.8.1*https://bit.ly/3cGPrkJ*Ctrl_Esc_TV.png
 
 
 
-script.module.six-1.15.0*https://mirrors.kodi.tv/addons/leia/script.module.six/script.module.six-1.15.0.zip*module.png
-script.module.elementtree-1.2.8*https://mirrors.kodi.tv/addons/leia/script.module.elementtree/script.module.elementtree-1.2.8.zip*module.png
+script.module.six-1.15.0*https://bit.ly/3KFu3Jn*module.png
+script.module.elementtree-1.2.8*https://bit.ly/3ANFDxo*module.png
 script.module.cryptopy-1.2.6*https://bit.ly/3q5TYAe*module.png
-script.module.backports.functools_lru_cache-1.6.1*https://mirrors.kodi.tv/addons/leia/script.module.backports.functools_lru_cache/script.module.backports.functools_lru_cache-1.6.1.zip*module.png
+script.module.backports.functools_lru_cache-1.6.1*https://bit.ly/3KJAhYP*module.png
 script.module.soupsieve-1.9.6+leia.1*https://bit.ly/3RtXnog*module.png
 script.module.brotli-1.0.7*https://bit.ly/3CXG7nl*module.png
-script.module.beautifulsoup-3.2.1*https://mirrors.kodi.tv/addons/leia/script.module.beautifulsoup/script.module.beautifulsoup-3.2.1.zip*module.png
-script.module.beautifulsoup4-4.9.3*https://mirrors.kodi.tv/addons/leia/script.module.beautifulsoup4/script.module.beautifulsoup4-4.9.3.zip*module.png
-script.module.urllib3-1.26.9*https://mirrors.kodi.tv/addons/leia/script.module.urllib3/script.module.urllib3-1.26.9.zip*module.png
-script.module.xmltodict-0.11.0*https://mirrors.kodi.tv/addons/leia/script.module.xmltodict/script.module.xmltodict-0.11.0.zip*module.png
-script.module.chardet-4.0.0*https://mirrors.kodi.tv/addons/leia/script.module.chardet/script.module.chardet-4.0.0.zip*module.png
-script.module.idna-2.10.0*https://mirrors.kodi.tv/addons/leia/script.module.idna/script.module.idna-2.10.0.zip*module.png
-script.module.certifi-2021.10.8*https://mirrors.kodi.tv/addons/leia/script.module.certifi/script.module.certifi-2021.10.8.zip*module.png
-script.module.requests-cache-0.4.13*https://mirrors.kodi.tv/addons/leia/script.module.requests-cache/script.module.requests-cache-0.4.13.zip*module.png
-script.module.requests-2.27.1*https://mirrors.kodi.tv/addons/leia/script.module.requests/script.module.requests-2.27.1.zip*module.png
+script.module.beautifulsoup-3.2.1*https://bit.ly/3wUcKhT*module.png
+script.module.beautifulsoup4-4.9.3*https://bit.ly/3B9PE9H*module.png
+script.module.urllib3-1.26.9*https://bit.ly/3B9V1pb*module.png
+script.module.xmltodict-0.11.0*https://bit.ly/3RzcQne*module.png
+script.module.chardet-4.0.0*https://bit.ly/3TCTtva*module.png
+script.module.idna-2.10.0*https://bit.ly/3KJYU7B*module.png
+script.module.certifi-2021.10.8*https://bit.ly/3Rwrs6D*module.png
+script.module.requests-cache-0.4.13*https://bit.ly/3Badwdf*module.png
+script.module.requests-2.27.1*https://bit.ly/3RvoBef*module.png
 script.module.requests_toolbelt-0.9.1*https://bit.ly/3cKVll0*module.png
 script.module.cfscrape-2020.01.07*https://bit.ly/3AMqWL9*module.png
-script.module.win_inet_pton-1.1.0*https://mirrors.kodi.tv/addons/leia/script.module.win_inet_pton/script.module.win_inet_pton-1.1.0.zip*module.png
-script.module.addon.common-2.0.0*https://mirrors.kodi.tv/addons/leia/script.module.addon.common/script.module.addon.common-2.0.0.zip*module.png
+script.module.win_inet_pton-1.1.0*https://bit.ly/3q60qaq*module.png
+script.module.addon.common-2.0.0*https://bit.ly/3Rzl2Ug*module.png
 script.module.myconnpy-1.1.7*https://mirrors.kodi.tv/addons/leia/script.module.myconnpy/script.module.myconnpy-1.1.7.zip*module.png
 script.module.clouddrive.common-1.3.9*https://mirrors.kodi.tv/addons/leia/script.module.clouddrive.common/script.module.clouddrive.common-1.3.9.zip*module.png
 script.module.cryptopy.common-1.2.6*https://bit.ly/3KPECtu*module.png
@@ -54,14 +54,14 @@ script.module.httplib2-0.10.3*https://mirrors.kodi.tv/addons/leia/script.module.
 script.module.pysocks-1.6.8*https://mirrors.kodi.tv/addons/leia/script.module.pysocks/script.module.pysocks-1.6.8.zip*module.png
 script.module.inputstreamhelper-0.5.10*https://mirrors.kodi.tv/addons/leia/script.module.inputstreamhelper/script.module.inputstreamhelper-0.5.10.zip*module.png
 script.module.pytz-2014.2*https://mirrors.kodi.tv/addons/leia/script.module.pytz/script.module.pytz-2014.2.zip*module.png
-script.module.pil-1.1.7*https://kdc-community.github.io/kdc_git_repo/script.module.pil/script.module.pil-1.1.7.zip*module.png
+script.module.pil-1.1.7*https://bit.ly/3BaB55O*module.png
 script.module.pyamf-0.6.2*https://mirrors.kodi.tv/addons/leia/script.module.pyamf/script.module.pyamf-0.6.2.zip*module.png
 script.module.pyqrcode-0.0.2*https://mirrors.kodi.tv/addons/leia/script.module.pyqrcode/script.module.pyqrcode-0.0.2.zip*module.png
 script.module.simple.downloader-1.9.5*https://mirrors.kodi.tv/addons/leia/script.module.simple.downloader/script.module.simple.downloader-1.9.5.zip*module.png
-script.module.metahandler-3.0.3*https://kdc-community.github.io/kdc_git_repo/script.module.metahandler/script.module.metahandler-3.0.3.zip*module.png
-script.module.thetvdb-1.0.27*https://kdc-community.github.io/kdc_git_repo/script.module.thetvdb/script.module.thetvdb-1.0.27.zip*module.png
-script.module.F4mProxy-2.8.7*https://kdc-community.github.io/kdc_git_repo/script.video.F4mProxy/script.video.F4mProxy-2.8.7.zip*module.png
-script.module.tzlocal-2.0.0*https://mirrors.kodi.tv/addons/leia/script.module.tzlocal/script.module.tzlocal-2.0.0.zip*module.png
+script.module.metahandler-3.0.3*https://bit.ly/3BadAd5*module.png
+script.module.thetvdb-1.0.27*https://bit.ly/3xfGKFp*module.png
+script.module.F4mProxy-2.8.7*https://bit.ly/3Rsu2dK*module.png
+script.module.tzlocal-2.0.0*https://bit.ly/3q5Lj0L*module.png
 
 script.module.urlresolver-2021.12.23*https://bit.ly/3OyiZ1f*urlresolver.png
 script.module.resolveurl-5.1.75.nightly1*https://bit.ly/3wsEN7Z*resolve_url.png
