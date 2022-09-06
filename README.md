@@ -14,7 +14,7 @@ Falls erforderlich:
 - und erst dann ein Addon installieren.
 
 
-* [Ctrl_Esc_K_18_Dependencies](https://bit.ly/3Rl99BM)
+* [Ctrl_Esc_K_18_Dependencies](https://bit.ly/3qc8cjc)
 
 
 
