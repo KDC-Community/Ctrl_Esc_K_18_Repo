@@ -1,26 +1,27 @@
 #----------------------------------------------------------------
 #-------------Addons von 1 - 6 zu Informationszwecken selbst Installieren!!---------------------------------------------------
 #----------------------------------------------------------------
-1 Ctrl_Esc MP3 Stream-Downloader-4.8.1*https://bit.ly/3gjDsLj*ctrl_esc_mp3_downloader.png
-2 Ctrl_Esc I Love Hirschmilch-4.8.1*https://bit.ly/3QMDJUt*hirschmilch.png
-3 Ctrl_Esc_TV-4.8.1*https://bit.ly/3cGPrkJ*Ctrl_Esc_TV.png
-4 Ctrl_Esc ENIGMA STB_Client-4.8.1*https://bit.ly/3D21CmS*ctrl_esc_enigma.png
-5 Unofficial Youtube-6.8.18*https://bit.ly/3AILSTa*youtube.png
-6 plugin.video.spotitube-3.0.3*https://bit.ly/3xJpBmR*spotitube.png
-
+[COLOR lime]===================================[/COLOR]*ext*module.png
+1 Ctrl_Esc MP3 Stream-Downloader Addon-4.8.1*https://bit.ly/3gjDsLj*ctrl_esc_mp3_downloader.png
+2 Ctrl_Esc I Love Hirschmilch Addon-4.8.1*https://bit.ly/3QMDJUt*hirschmilch.png
+3 Ctrl_Esc_TV Addon-4.8.1*https://bit.ly/3cGPrkJ*Ctrl_Esc_TV.png
+4 Ctrl_Esc ENIGMA STB_Client Addon-4.8.1*https://bit.ly/3D21CmS*ctrl_esc_enigma.png
+5 Unofficial Youtube Addon-6.8.18*https://bit.ly/3AILSTa*youtube.png
+6 Spotitube Addon-3.0.3*https://bit.ly/3xJpBmR*spotitube.png
+[COLOR lime]===================================[/COLOR]*ext*module.png
 #----------------------------------------------------------------
 #----------------------------------------------------------------
 #----------------------------------------------------------------
-
 Ctrl_Esc Abhängigkeiten K-18-4.8.1*https://bit.ly/3ecy9fV*Ctrl_Esc_Dependencies.png
 Ctrl_Esc_K_18_Repo-4.8.1*https://bit.ly/3RkHK2g*ctrl_esc_k18.png
 Ctrl_Esc GUI Sounds-1.0.0*https://bit.ly/3BakxdZ*ctrl_esc_ui.png
+[COLOR lime]===================================[/COLOR]*ext*module.png
 #----------------------------------------------------------------
 #----------------------------------------------------------------
 #----------------------------------------------------------------
 
 
-
+[COLOR lime]===================================[/COLOR]*ext*module.png
 
 script.module.six-1.15.0*https://bit.ly/3KFu3Jn*module.png
 script.module.elementtree-1.2.8*https://bit.ly/3ANFDxo*module.png
@@ -76,6 +77,7 @@ script.module.thetvdb-1.0.27*https://bit.ly/3xfGKFp*module.png
 script.module.F4mProxy-2.8.7*https://bit.ly/3Rsu2dK*module.png
 script.module.tzlocal-2.0.0*https://bit.ly/3q5Lj0L*module.png
 
+[COLOR lime]===================================[/COLOR]*ext*module.png
 script.module.urlresolver-2021.12.23*https://bit.ly/3OyiZ1f*urlresolver.png
 script.module.resolveurl-5.1.75.nightly1*https://bit.ly/3wsEN7Z*resolve_url.png
 
@@ -98,14 +100,14 @@ script.module.resolveurl-5.1.73*https://bit.ly/3pXKZkI*resolve_url.png
 script.module.resolveurl-5.1.74*https://bit.ly/3R7EXd5*resolve_url.png
 script.module.resolveurl-5.1.75*https://bit.ly/3q15JYU*resolve_url.png
 
-
+[COLOR lime]===================================[/COLOR]*ext*module.png
 
 
 plugin.video.live.streamspro-2.8.1*https://bit.ly/3gwEA9U*LSPro.png
-
+[COLOR lime]===================================[/COLOR]*ext*module.png
 EPG Repository DeBaschdi-1.0.1*https://bit.ly/3ydqBRF*takealug.png
 service.takealug.epg-grabber-0.3.8*https://bit.ly/3yaCeJ2*takealug.png
-
+[COLOR lime]===================================[/COLOR]*ext*module.png
 
 repository.yt.testing_official-1.0.1*https://bit.ly/3tPTwIT*youtube.png
 repository.yt.testing_unofficial-1.0.1*https://bit.ly/3n84QvZ*youtube.png
@@ -118,13 +120,13 @@ Youtube-6.8.3.alpha1*https://bit.ly/3N8gFwU*youtube.png
 
 Unofficial Youtube-6.8.19~alpha1*https://bit.ly/3KLBPS8*youtube.png
 
-
+[COLOR lime]===================================[/COLOR]*ext*module.png
 
 
 repository.infinity-1.0.0*https://bit.ly/3NdJ30G*Infinity.png
 script.infinity.artwork-1.0.1*https://bit.ly/2DpBBBN*Infinity.png
 plugin.video.infinity-1.1.2*https://bit.ly/3xLE1CL*Infinity.png
-
+[COLOR lime]===================================[/COLOR]*ext*module.png
 
 repository.lastship-1.0.2*https://bit.ly/3xOXq60*lastship.png
 repository.lastship-1.0.6*https://bit.ly/3ybG6Jz*lastship.png
@@ -133,37 +135,37 @@ plugin.video.lastship-4.0.6.4*https://bit.ly/3NmjbQs*lastship.png
 Unofficial plugin.video.lastship-4.0.6.5*https://bit.ly/3QFdeRc*lastship.png
 Unofficial plugin.video.lastship-4.0.6.5.1*https://bit.ly/3nbcqpS*lastship.png
 Unofficial plugin.video.lastship-4.0.7.1.1*https://bit.ly/3QDBhjv*lastship.png
-
+[COLOR lime]===================================[/COLOR]*ext*module.png
 
 
 repository.xstream-1.1.9*https://bit.ly/3bnb8VV*xStreamRepo.png
 plugin.video.xstream-3.5.35*https://bit.ly/3wM0XlL*x_addon.png
 xstream-script.module.resolveurl-5.1.74*https://bit.ly/3pWVR27*resolve_url.png
-
+[COLOR lime]===================================[/COLOR]*ext*module.png
 
 MyTV-STB-MAG-Client-4.8.1*https://bit.ly/3AJSOQ2*ctrl_esc_mytv.png
 MyTV-MAC-Client-4.8.1*https://bit.ly/3CPiTzP*ctrl_esc_mytv_mac.png
 
-
+[COLOR lime]===================================[/COLOR]*ext*module.png
 
 
 
 Video-Jackson-API-Service_Module-4.8.1*https://bit.ly/3Q969Hb*service._v.png
 Video-Jackson-API-Interface-4.8.1*https://bit.ly/3ee9l7b*service._v_addon.png
 
-
+[COLOR lime]===================================[/COLOR]*ext*module.png
 CastagnaIT Repository for Kodi 18-1.0.0*https://bit.ly/3Vcz94I*CastagnaIT.jpg
 CastagnaIT Repository-2.0.0*https://bit.ly/3rF7FqO*CastagnaIT.jpg
 
 CastagnaIT Netfilx Addon-1.12.12*https://bit.ly/3rEqkD9*CastagnaIT.jpg
-
+[COLOR lime]===================================[/COLOR]*ext*module.png
 
 Sandmann79 Repository-1.0.4*https://bit.ly/3Cm0Zmx*module.png
-
+[COLOR lime]===================================[/COLOR]*ext*module.png
 service.thoradia Pi3-9.2.0.23*https://bit.ly/39H5Lkd*thoradia.png
 service.thoradia Pi4-9.2.0.23*https://bit.ly/3NfN7h1*thoradia.png
 service.thoradia x86_64-9.2.0.23*https://bit.ly/3bpt6HH*thoradia.png
 
-
+[COLOR lime]===================================[/COLOR]*ext*module.png
 
 
