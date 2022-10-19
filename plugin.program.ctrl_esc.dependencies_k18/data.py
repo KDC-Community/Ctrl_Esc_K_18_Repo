@@ -117,9 +117,9 @@ repository.lastship-1.0.2*https://bit.ly/3xOXq60*lastship.png
 repository.lastship-1.0.6*https://bit.ly/3ybG6Jz*lastship.png
 script.lastship.artwork-2.0.4*https://bit.ly/3OgOWeG*lastship.png
 plugin.video.lastship-4.0.6.4*https://bit.ly/3NmjbQs*lastship.png
-plugin.video.lastship-4.0.6.5*https://bit.ly/3QFdeRc*lastship.png
-plugin.video.lastship-4.0.6.5.1*https://bit.ly/3nbcqpS*lastship.png
-plugin.video.lastship-4.0.7.1.1*https://bit.ly/3QDBhjv*lastship.png
+Unofficial plugin.video.lastship-4.0.6.5*https://bit.ly/3QFdeRc*lastship.png
+Unofficial plugin.video.lastship-4.0.6.5.1*https://bit.ly/3nbcqpS*lastship.png
+Unofficial plugin.video.lastship-4.0.7.1.1*https://bit.ly/3QDBhjv*lastship.png
 
 
 
@@ -128,10 +128,8 @@ plugin.video.xstream-3.5.35*https://bit.ly/3wM0XlL*x_addon.png
 xstream-script.module.resolveurl-5.1.74*https://bit.ly/3pWVR27*resolve_url.png
 
 
-
 MyTV-STB-MAG-Client-4.8.1*https://bit.ly/3AJSOQ2*ctrl_esc_mytv.png
 MyTV-MAC-Client-4.8.1*https://bit.ly/3CPiTzP*ctrl_esc_mytv_mac.png
-
 
 ENIGMA_V2_Multi-STB-Line_Client-4.8.1*https://bit.ly/3D21CmS*ctrl_esc_enigma.png
 
@@ -140,6 +138,14 @@ ENIGMA_V2_Multi-STB-Line_Client-4.8.1*https://bit.ly/3D21CmS*ctrl_esc_enigma.png
 Video-Jackson-API-Service_Module-4.8.1*https://bit.ly/3Q969Hb*service._v.png
 Video-Jackson-API-Interface-4.8.1*https://bit.ly/3ee9l7b*service._v_addon.png
 
+
+CastagnaIT Repository for Kodi 18-1.0.0*https://bit.ly/3Vcz94I*CastagnaIT.jpg
+CastagnaIT Repository-2.0.0*https://bit.ly/3rF7FqO*CastagnaIT.jpg
+
+CastagnaIT Netfilx Addon-1.12.12*https://bit.ly/3rEqkD9*CastagnaIT.jpg
+
+
+Sandmann79 Repository-1.0.4*https://bit.ly/3Cm0Zmx*module.png
 
 service.thoradia Pi3-9.2.0.23*https://bit.ly/39H5Lkd*thoradia.png
 service.thoradia Pi4-9.2.0.23*https://bit.ly/3NfN7h1*thoradia.png
