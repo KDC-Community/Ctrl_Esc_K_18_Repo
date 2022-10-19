@@ -1,10 +1,23 @@
-Ctrl_Esc Abhängigkeiten K-18-4.8.1*https://bit.ly/3ecy9fV*Ctrl_Esc_Dependencies.png
+#----------------------------------------------------------------
+#-------------Addons von 1 - 6 zu Informationszwecken selbst Installieren!!---------------------------------------------------
+#----------------------------------------------------------------
+1 Ctrl_Esc MP3 Stream-Downloader-4.8.1*https://bit.ly/3gjDsLj*ctrl_esc_mp3_downloader.png
+2 Ctrl_Esc I Love Hirschmilch-4.8.1*https://bit.ly/3QMDJUt*hirschmilch.png
+3 Ctrl_Esc_TV-4.8.1*https://bit.ly/3cGPrkJ*Ctrl_Esc_TV.png
+4 Ctrl_Esc ENIGMA STB_Client-4.8.1*https://bit.ly/3D21CmS*ctrl_esc_enigma.png
+5 Unofficial Youtube-6.8.18*https://bit.ly/3AILSTa*youtube.png
+6 plugin.video.spotitube-3.0.3*https://bit.ly/3xJpBmR*spotitube.png
 
+#----------------------------------------------------------------
+#----------------------------------------------------------------
+#----------------------------------------------------------------
+
+Ctrl_Esc Abhängigkeiten K-18-4.8.1*https://bit.ly/3ecy9fV*Ctrl_Esc_Dependencies.png
 Ctrl_Esc_K_18_Repo-4.8.1*https://bit.ly/3RkHK2g*ctrl_esc_k18.png
 Ctrl_Esc GUI Sounds-1.0.0*https://bit.ly/3BakxdZ*ctrl_esc_ui.png
-
-Ctrl_Esc I Love Hirschmilch-4.8.1*https://bit.ly/3QMDJUt*hirschmilch.png
-Ctrl_Esc_TV-4.8.1*https://bit.ly/3cGPrkJ*Ctrl_Esc_TV.png
+#----------------------------------------------------------------
+#----------------------------------------------------------------
+#----------------------------------------------------------------
 
 
 
@@ -102,10 +115,10 @@ repository.yt.testing_official-2.0.1*https://bit.ly/3RfHS3J*youtube.png
 repository.yt.testing_official-2.0.2*https://bit.ly/3cK0Dxa*youtube.png
 
 Youtube-6.8.3.alpha1*https://bit.ly/3N8gFwU*youtube.png
-Unofficial Youtube-6.8.18*https://bit.ly/3AILSTa*youtube.png
+
 Unofficial Youtube-6.8.19~alpha1*https://bit.ly/3KLBPS8*youtube.png
 
-plugin.video.spotitube-3.0.3*https://bit.ly/3xJpBmR*spotitube.png
+
 
 
 repository.infinity-1.0.0*https://bit.ly/3NdJ30G*Infinity.png
@@ -131,7 +144,7 @@ xstream-script.module.resolveurl-5.1.74*https://bit.ly/3pWVR27*resolve_url.png
 MyTV-STB-MAG-Client-4.8.1*https://bit.ly/3AJSOQ2*ctrl_esc_mytv.png
 MyTV-MAC-Client-4.8.1*https://bit.ly/3CPiTzP*ctrl_esc_mytv_mac.png
 
-ENIGMA_V2_Multi-STB-Line_Client-4.8.1*https://bit.ly/3D21CmS*ctrl_esc_enigma.png
+
 
 
 

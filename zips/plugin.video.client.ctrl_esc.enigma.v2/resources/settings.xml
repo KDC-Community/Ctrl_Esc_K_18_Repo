@@ -1,8 +1,0 @@
-<settings>
-<category label="General">
-     <setting id="main_url" type="text" label="main_url" default=""/>
-     <setting id="port_num" type="text" label="port_num" default=""/>
-     <setting id="deviceUser" type="text" label="Username" default=""/>
-     <setting id="devicePass" type="text" option="writeable,hidden" label="Password" default=""/>
-</category>
-</settings>
