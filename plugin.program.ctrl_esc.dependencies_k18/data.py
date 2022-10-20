@@ -63,6 +63,11 @@ script.module.metadatautils-1.0.40*https://bit.ly/3AETu9g*module.png
 script.module.xbmcswift2-13.0.4*https://kdc-community.github.io/kdc_git_repo/script.module.xbmcswift2/script.module.xbmcswift2-13.0.4.zip*module.png
 script.module.simpleplugin3-3.0.6*https://mirrors.kodi.tv/addons/leia/script.module.simpleplugin3/script.module.simpleplugin3-3.0.6.zip*module.png
 script.module.unidecode-1.1.1*https://mirrors.kodi.tv/addons/leia/script.module.unidecode/script.module.unidecode-1.1.1.zip*module.png
+script.module.python.twitch-2.0.21*https://mirrors.kodi.tv/addons/leia/script.module.python.twitch/script.module.python.twitch-2.0.21.zip*module.png
+plugin.googledrive-1.4.10*https://mirrors.kodi.tv/addons/leia/plugin.googledrive/plugin.googledrive-1.4.10.zip*module.png
+script.module.pydevd-3.4.1*https://mirrors.kodi.tv/addons/leia/script.module.pydevd/script.module.pydevd-3.4.1.zip*module.png
+script.module.pyqrcode-0.0.2*https://mirrors.kodi.tv/addons/leia/script.module.pyqrcode/script.module.pyqrcode-0.0.2.zip*module.png
+script.module.python.koding.aio-0.9.9.4.3*https://bit.ly/3TCcflt*module.png
 
 
 script.module.t0mm0.common-2.1.1*https://mirrors.kodi.tv/addons/leia/script.module.t0mm0.common/script.module.t0mm0.common-2.1.1.zip*module.png
