@@ -1,3 +1,4 @@
+[COLOR lime]===Update immer erst den Abhängigkeiten K-18 Installer===[/COLOR]*ext*module.png
 Ctrl_Esc Abhängigkeiten K-18-4.8.1*https://bit.ly/3ecy9fV*Ctrl_Esc_Dependencies.png
 #----------------------------------------------------------------
 #-------------Addons von 1 - 6 zu Informationszwecken selbst Installieren!!---------------------------------------------------
@@ -153,7 +154,7 @@ MyTV-MAC-Client-4.8.1*https://bit.ly/3CPiTzP*ctrl_esc_mytv_mac.png
 script.module.universalscrapers-1.2.3*https://bit.ly/3VMs2A0*universal.png
 repository.universalscrapers-1.0.0*https://bit.ly/2IVZ8bl*universal.png
 
-
+[COLOR lime]===================================[/COLOR]*ext*module.png
 
 Video-Jackson-API-Service_Module-4.8.1*https://bit.ly/3Q969Hb*service._v.png
 Video-Jackson-API-Interface-4.8.1*https://bit.ly/3ee9l7b*service._v_addon.png
