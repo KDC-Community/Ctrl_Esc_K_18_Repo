@@ -104,6 +104,13 @@ script.module.resolveurl-5.1.72*https://bit.ly/3Axt8pE*resolve_url.png
 script.module.resolveurl-5.1.73*https://bit.ly/3pXKZkI*resolve_url.png
 script.module.resolveurl-5.1.74*https://bit.ly/3R7EXd5*resolve_url.png
 script.module.resolveurl-5.1.75*https://bit.ly/3q15JYU*resolve_url.png
+script.module.resolveurl-5.1.76*https://bit.ly/3Dcys4q*resolve_url.png
+script.module.resolveurl-5.1.77*https://bit.ly/3MQdNGp*resolve_url.png
+script.module.resolveurl-5.1.78*https://bit.ly/3ThKNK4*resolve_url.png
+script.module.resolveurl-5.1.79*https://bit.ly/3CMRe0R*resolve_url.png
+script.module.resolveurl-5.1.80*https://bit.ly/3shZ1i4*resolve_url.png
+
+
 
 [COLOR lime]===================================[/COLOR]*ext*module.png
 
