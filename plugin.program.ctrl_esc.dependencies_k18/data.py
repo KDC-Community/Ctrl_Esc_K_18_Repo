@@ -1,3 +1,4 @@
+Ctrl_Esc Abhängigkeiten K-18-4.8.1*https://bit.ly/3ecy9fV*Ctrl_Esc_Dependencies.png
 #----------------------------------------------------------------
 #-------------Addons von 1 - 6 zu Informationszwecken selbst Installieren!!---------------------------------------------------
 #----------------------------------------------------------------
@@ -12,7 +13,7 @@
 #----------------------------------------------------------------
 #----------------------------------------------------------------
 #----------------------------------------------------------------
-Ctrl_Esc Abhängigkeiten K-18-4.8.1*https://bit.ly/3ecy9fV*Ctrl_Esc_Dependencies.png
+
 Ctrl_Esc_K_18_Repo-4.8.1*https://bit.ly/3RkHK2g*ctrl_esc_k18.png
 Ctrl_Esc GUI Sounds-1.0.0*https://bit.ly/3BakxdZ*ctrl_esc_ui.png
 [COLOR lime]===================================[/COLOR]*ext*module.png
@@ -23,7 +24,7 @@ Ctrl_Esc GUI Sounds-1.0.0*https://bit.ly/3BakxdZ*ctrl_esc_ui.png
 
 [COLOR lime]===================================[/COLOR]*ext*module.png
 
-script.module.universalscrapers-1.2.3*https://bit.ly/3VMs2A0*module.png
+
 script.module.six-1.15.0*https://bit.ly/3KFu3Jn*module.png
 script.module.elementtree-1.2.8*https://bit.ly/3ANFDxo*module.png
 script.module.cryptopy-1.2.6*https://bit.ly/3q5TYAe*module.png
@@ -148,6 +149,9 @@ MyTV-STB-MAG-Client-4.8.1*https://bit.ly/3AJSOQ2*ctrl_esc_mytv.png
 MyTV-MAC-Client-4.8.1*https://bit.ly/3CPiTzP*ctrl_esc_mytv_mac.png
 
 [COLOR lime]===================================[/COLOR]*ext*module.png
+
+script.module.universalscrapers-1.2.3*https://bit.ly/3VMs2A0*universal.png
+repository.universalscrapers-1.0.0*https://bit.ly/2IVZ8bl*universal.png
 
 
 
