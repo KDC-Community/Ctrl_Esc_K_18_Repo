@@ -23,6 +23,7 @@ Ctrl_Esc GUI Sounds-1.0.0*https://bit.ly/3BakxdZ*ctrl_esc_ui.png
 
 [COLOR lime]===================================[/COLOR]*ext*module.png
 
+script.module.universalscrapers-1.2.3*https://bit.ly/3VMs2A0*module.png
 script.module.six-1.15.0*https://bit.ly/3KFu3Jn*module.png
 script.module.elementtree-1.2.8*https://bit.ly/3ANFDxo*module.png
 script.module.cryptopy-1.2.6*https://bit.ly/3q5TYAe*module.png
