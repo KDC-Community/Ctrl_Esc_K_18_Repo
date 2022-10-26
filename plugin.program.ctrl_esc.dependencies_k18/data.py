@@ -188,4 +188,10 @@ service.thoradia x86_64-9.2.0.23*https://bit.ly/3bpt6HH*thoradia.png
 
 [COLOR lime]===================================[/COLOR]*ext*module.png
 
-repository.skinbase.18-3.1.36*https://bit.ly/3f6gPdb*module.png
+repository.skinbase.18-3.1.36*https://bit.ly/3f6gPdb*äümodule.png
+plugin.audio.radio_de-3.0.3*https://bit.ly/3Dc0FHa*äümodule.png
+plugin.audio.ramfm-2.1.0*https://bit.ly/3Dyk32z*äümodule.png
+plugin.audio.soundcloud-3.2.0*https://bit.ly/3zjvVmG*äümodule.png
+
+
+
