@@ -1,25 +1,25 @@
-[COLOR lime]===Update immer erst den Dependencies K-18 Installer===[/COLOR]*ext*module.png
-[COLOR lime]===erst dann Repositories, Module, oder Addons===[/COLOR]*ext*module.png
-[COLOR lime]===================================[/COLOR]*ext*module.png
+[COLOR lime]===Update immer erst den Dependencies K-18 Installer===[/COLOR]*ext*äümodule.png
+[COLOR lime]===erst dann Repositories, Module, oder Addons===[/COLOR]*ext*äümodule.png
+[COLOR lime]===================================[/COLOR]*ext*äümodule.png
 [COLOR red] Ctrl_Esc Dependencies Installer [/COLOR] K-18 - 4.8.1*https://bit.ly/3ecy9fV*Ctrl_Esc_Dependencies.png
 #----------------------------------------------------------------
 #-------------Addons von 1 - 6 zu Informationszwecken selbst Installieren!!---------------------------------------------------
 #----------------------------------------------------------------
-[COLOR lime]===================================[/COLOR]*ext*module.png
-1 Ctrl_Esc MP3 Stream-Downloader Addon-4.8.1*https://bit.ly/3gjDsLj*ctrl_esc_mp3_downloader.png
-2 Ctrl_Esc I Love Hirschmilch Addon-4.8.1*https://bit.ly/3QMDJUt*hirschmilch.png
-3 Ctrl_Esc_TV Addon-4.8.1*https://bit.ly/3cGPrkJ*Ctrl_Esc_TV.png
-4 Ctrl_Esc ENIGMA STB_Client Addon-4.8.1*https://bit.ly/3D21CmS*ctrl_esc_enigma.png
-5 Unofficial Youtube Addon-6.8.18*https://bit.ly/3AILSTa*youtube.png
-6 Spotitube Addon-3.0.3*https://bit.ly/3xJpBmR*spotitube.png
-[COLOR lime]===================================[/COLOR]*ext*module.png
+[COLOR lime]===================================[/COLOR]*ext*äümodule.png
+1 Ctrl_Esc MP3 Stream-Downloader Addon-4.8.1*https://bit.ly/3gjDsLj*äüctrl_esc_mp3_downloader.png
+2 Ctrl_Esc I Love Hirschmilch Addon-4.8.1*https://bit.ly/3QMDJUt*äühirschmilch.png
+3 Ctrl_Esc_TV Addon-4.8.1*https://bit.ly/3cGPrkJ*äüCtrl_Esc_TV.png
+4 Ctrl_Esc ENIGMA STB_Client Addon-4.8.1*https://bit.ly/3D21CmS*äüctrl_esc_enigma.png
+5 Unofficial Youtube Addon-6.8.18*https://bit.ly/3AILSTa*äüyoutube.png
+6 Spotitube Addon-3.0.3*https://bit.ly/3xJpBmR*äüspotitube.png
+[COLOR lime]===================================[/COLOR]*ext*äümodule.png
 #----------------------------------------------------------------
 #----------------------------------------------------------------
 #----------------------------------------------------------------
 
 Ctrl_Esc_K_18_Repo-4.8.1*https://bit.ly/3RkHK2g*ctrl_esc_k18.png
-Ctrl_Esc GUI Sounds-1.0.0*https://bit.ly/3BakxdZ*ctrl_esc_ui.png
-[COLOR lime]===================================[/COLOR]*ext*module.png
+Ctrl_Esc GUI Sounds-1.0.0*https://bit.ly/3BakxdZ*äüctrl_esc_ui.png
+[COLOR lime]===================================[/COLOR]*ext*äümodule.png
 #----------------------------------------------------------------
 #----------------------------------------------------------------
 #----------------------------------------------------------------
