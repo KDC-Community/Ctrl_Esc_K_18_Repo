@@ -349,35 +349,6 @@ See README!
 </addon>
 
 
-	<addon
-        id="plugin.audio.ravearchive" 
-        name="Rave Archive" 
-        version="4.8.1" 
-        provider-name="Ctrl_Esc">
-		<requires>
-			<import addon="xbmc.python" version="2.1.0"/>
-			<import addon="xbmc.addon" version="12.1.0"/>
-            <import addon="script.module.t0mm0.common"/>
-            <import addon="script.module.urlresolver"/>
-            <import addon="script.module.simplejson" version="3.3.0"/>
-		</requires>
-		<extension point="xbmc.python.pluginsource" library="default.py">
-			<provides>audio</provides>
-		</extension>
-		<extension point="xbmc.addon.metadata">
-			<summary lang="en">[COLOR blue]Oldskool Dj Sets, Mixtapes and Ravepacks
-			From Different Websites In One Place![/COLOR]   Lets Get XBMC Raving To The Sound Of The Oldskool!</summary>
-			<description lang="en">Oldskool Dj Sets, Mixtapes and Ravepacks[CR]from different websites in one place.[CR]Acid House, Hardcore, Jungle, Drum n Bass, House n Garage, Grime and much more from 1988 to present day[CR]for your raving needs..°--°..[CR][CR]This [COLOR blue]Audio Addon[/COLOR] is brought to you by[CR][COLOR blue]TheYid009 and Ctrl_Esc[/COLOR][CR][CR][COLOR gold][B]For more info please read the changelog.txt[/B][/COLOR][CR]</description>
-			<disclaimer lang="en">The author does not host or distribute any of the content displayed by this addon.</disclaimer>
-			<platform>all</platform>
-			<license></license>
-			<language>en</language>
-			<forum></forum>
-			<website></website>
-			<email></email>
-			<source></source>
-		</extension>
-	</addon>
 
 
 
