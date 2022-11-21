@@ -340,6 +340,45 @@ Without the "video addon" you have no permission to access, no fun at all and no
 </addon>
 
 
+<addon id="plugin.program.ctrl_esc.dependencies_k18"
+    name="[B][COLOR antiquewhite]Ctrl_Esc Abhängigkeiten K-18[/B][/COLOR]" version="4.8.1"
+	provider-name="[B][COLOR antiquewhite]Ctrl_Esc[/B][/COLOR]">
+    <requires>
+		<!--copy py2 compliant for kodi 18 leia-->
+        <import addon="xbmc.python" version="2.1.0"/>
+		<!--copy py3 compliant for kodi 19 matrix-->
+		<!--import addon="xbmc.python" version="3.0.0"/>-->
+    </requires>
+    <extension point="xbmc.python.pluginsource" library="resources/pys/updater.py">
+        <provides>executable</provides>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+       <summary>Kodi Leia Dependencies Installer</summary>
+        <description>Addon Abhängigkeiten / Dependencie Installer Updater für Kodi 18.
+Installiere die Scripte der Reihe nach
+und erst dann "ein Addon".
+
+ACHTUNG!!!
+
+NACH NEM CLICK WIRD DIREKT INSTALLIERT!!!
+See README!
+
+
+
+</description>
+        <platform>all</platform>
+        <language>DE</language>
+        <license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
+        <website></website>
+        <source></source>
+        <email></email>
+        <assets>
+            <icon>resources/icon.png</icon>
+            <fanart>resources/fanart.jpg</fanart>
+        </assets>
+    </extension>
+</addon>
+
 
 </addons>
 
