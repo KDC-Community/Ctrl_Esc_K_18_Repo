@@ -1,39 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<addon id="plugin.video.ctrl_esc_tv"
+<addon id="plugin.audio.ravearchive"
        version="4.8.1"
-       name="Control Escape TV"
+       name="Rave Archive"
        provider-name="Ctrl_Esc">
 <requires>
-    <import addon="xbmc.python" version="2.14.0"/>
-    <import addon="script.module.requests" />
-    <import addon="script.module.requests-cache" />
-    <import addon="script.module.routing" />
+    <import addon="xbmc.python" version="2.1.0"/>
+    <import addon="xbmc.addon" version="12.1.0"/>
+    <import addon="script.module.t0mm0.common"/>
+    <import addon="script.module.urlresolver"/>
+    <import addon="script.module.simplejson" version="3.3.0"/>
 </requires>
-<extension point="xbmc.python.pluginsource" library="main.py">
-  <provides>video</provides>
+<extension point="xbmc.python.pluginsource" library="default.py">
+  <provides>audio</provides>
 </extension>
 <extension point="xbmc.addon.metadata">
-  <summary>Public Obfuscate Version</summary>
-  <description>Ctrl_Esc Television ist ein Video Addon.
-
-Man kann "Eigene" Inhalte in die "videos.json" Datei eintragen
-und diese Datei, dann mit Freunden oder der Community teilen!
-
-Für weitere INFO:
-schaue doch einmal in die README oder
-in die videos.json Datei und öffne diese mit einem "Texteditor", 
-z.B.: mit "Notepad++", oder mit "Visual Studio Code",..
-
-Schau doch mal rein!°
-  </description>
+  <summary>[COLOR blue]Oldskool Dj Sets, Mixtapes and Ravepacks
+			From Different Websites In One Place![/COLOR]   Lets Get XBMC Raving To The Sound Of The Oldskool!</summary>
+  <description>Oldskool Dj Sets, Mixtapes and Ravepacks[CR]from different websites in one place.[CR]Acid House, Hardcore, Jungle, Drum n Bass, House n Garage, Grime and much more from 1988 to present day[CR]for your raving needs..°--°..[CR][CR]This [COLOR blue]Audio Addon[/COLOR] is brought to you by[CR][COLOR blue]TheYid009 and Ctrl_Esc[/COLOR][CR][CR][COLOR gold][B]For more info please read the changelog.txt[/B][/COLOR][CR]</description>
   <disclaimer>Die von diesem Addon dargestellten Inhalte werden weder von dem Ersteller dieses Addons gehostet, noch steht der Ersteller dieses Addons in irgendeiner Beziehung zu den Content-Anbietern.</disclaimer>
-  <assets>
-    <icon>icon.gif</icon>
-    <fanart>fanart.jpg</fanart>
-    <screenshot></screenshot>
-    <screenshot></screenshot>
-    <screenshot></screenshot>    
-  </assets>
-  <news></news>
+  <platform>all</platform>
 </extension>
 </addon>
