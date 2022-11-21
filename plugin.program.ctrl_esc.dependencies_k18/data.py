@@ -156,5 +156,5 @@ plugin.audio.radio_de-3.0.3*https://bit.ly/3Dc0FHa*module.png
 plugin.audio.ramfm-2.1.0*https://mirrors.kodi.tv/addons/leia/plugin.audio.ramfm/plugin.audio.ramfm-2.1.0.zip*module.png
 plugin.audio.soundcloud-3.2.0*https://mirrors.kodi.tv/addons/leia/plugin.audio.soundcloud/plugin.audio.soundcloud-3.2.0.zip*module.png
 [COLOR lime]===================================[/COLOR]*ext*äümodule.png
-plugin.audio.ravearchive-4.8.1*https://bit.ly/3tLjMDL*rave_archive.png
+
 
