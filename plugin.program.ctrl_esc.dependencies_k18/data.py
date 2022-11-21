@@ -1,7 +1,7 @@
 [COLOR lime]===Update immer erst den Dependencies K-18 Installer===[/COLOR]*ext*äümodule.png
 [COLOR lime]===erst dann Repositories, Module, oder Addons===[/COLOR]*ext*äümodule.png
 [COLOR lime]===================================[/COLOR]*ext*äümodule.png
-[COLOR red] Ctrl_Esc Dependencies Installer [/COLOR] K-18-4.8.1*https://bit.ly/3ecy9fV*Ctrl_Esc_Dependencies.png
+[COLOR red] Ctrl_Esc Dependencies Installer [/COLOR] K-18-4.8.1*https://bit.ly/3ecy9fV*äüCtrl_Esc_Dependencies.png
 #----------------------------------------------------------------
 #-------------Addons von 1 - 6 zu Informationszwecken selbst Installieren!!---------------------------------------------------
 #----------------------------------------------------------------
