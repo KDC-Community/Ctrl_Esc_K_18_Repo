@@ -12,6 +12,7 @@
 4 Ctrl_Esc ENIGMA STB_Client Addon-4.8.1*https://bit.ly/3D21CmS*äüctrl_esc_enigma.png
 5 Unofficial Youtube Addon-6.8.18*https://bit.ly/3AILSTa*äüyoutube.png
 6 Spotitube Addon-3.0.3*https://bit.ly/3xJpBmR*äüspotitube.png
+7 plugin.audio.ravearchive-4.8.1*https://bit.ly/3tLjMDL*äürave_archive.png
 [COLOR lime]===================================[/COLOR]*ext*äümodule.png
 #----------------------------------------------------------------
 #----------------------------------------------------------------
@@ -163,5 +164,5 @@ plugin.audio.radio_de-3.0.3*https://bit.ly/3Dc0FHa*module.png
 plugin.audio.ramfm-2.1.0*https://mirrors.kodi.tv/addons/leia/plugin.audio.ramfm/plugin.audio.ramfm-2.1.0.zip*module.png
 plugin.audio.soundcloud-3.2.0*https://mirrors.kodi.tv/addons/leia/plugin.audio.soundcloud/plugin.audio.soundcloud-3.2.0.zip*module.png
 [COLOR lime]===================================[/COLOR]*ext*äümodule.png
-plugin.audio.ravearchive-4.8.1*https://bit.ly/3tLjMDL*rave_archive.png
+
 script.module.TheYid.common-0.1.2*https://bit.ly/3EKwngP*module.png
