@@ -195,7 +195,7 @@ plugin.audio.soundcloud-3.2.0*https://mirrors.kodi.tv/addons/leia/plugin.audio.s
 
 [COLOR lime]===================================[/COLOR]*ext*äümodule.png
 
-plugin.audio.ravearchive-4.8.1*https://bit.ly/3AwVz7R*rave_archive.png
+plugin.audio.ravearchive-4.8.1*https://bit.ly/3UVieTJ*rave_archive.png
 script.module.TheYid.common-0.1.2*https://bit.ly/3EKwngP*module.png
 
 [COLOR lime]===================================[/COLOR]*ext*äümodule.png
