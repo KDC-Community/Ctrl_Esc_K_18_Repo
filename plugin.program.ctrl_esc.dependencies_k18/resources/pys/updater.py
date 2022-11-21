@@ -10,7 +10,7 @@ def fix_encoding(path):
 
 addon_ =  xbmcaddon.Addon()
 addon_path_ = fix_encoding(addon_.getAddonInfo('path'))
-special_path_addons_ = fix_encoding(xbmc.translatePath('special://profile/addons'))
+special_path_addons_ = fix_encoding(xbmc.translatePath('special://home/addons'))
 
 sys.path.append(os.path.join(addon_path_,'resources','libs'))
 import fixetzip as zipfile
