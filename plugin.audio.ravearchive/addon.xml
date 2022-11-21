@@ -7,7 +7,7 @@
 		<requires>
 			<import addon="xbmc.python" version="2.1.0"/>
 			<import addon="xbmc.addon" version="12.1.0"/>
-            <import addon="script.module.TheYid.common" version="0.1.1"/>
+            <import addon="script.module.t0mm0.common"/>
             <import addon="script.module.urlresolver"/>
             <import addon="script.module.simplejson" version="3.3.0"/>
 		</requires>
