@@ -83,20 +83,8 @@ script.module.tzlocal-2.0.0*https://bit.ly/3q5Lj0L*module.png
 script.module.urlresolver-2021.12.23*https://bit.ly/3OyiZ1f*urlresolver.png
 [COLOR lime]===================================[/COLOR]*ext*äümodule.png
 script.module.resolveurl-5.1.75.nightly1*https://bit.ly/3wsEN7Z*resolve_url.png
-
-script.module.resolveurl-5.1.58*https://bit.ly/3ycL5K5*resolve_url.png
-script.module.resolveurl-5.1.59*https://bit.ly/3yaA640*resolve_url.png
-script.module.resolveurl-5.1.60*https://bit.ly/3bmUwxJ*resolve_url.png
-script.module.resolveurl-5.1.61*https://bit.ly/3QFmPrl*resolve_url.png
-script.module.resolveurl-5.1.62*https://bit.ly/3QEep3w*resolve_url.png
-script.module.resolveurl-5.1.63*https://bit.ly/3xMFRn9*resolve_url.png
-script.module.resolveurl-5.1.64*https://bit.ly/3QFNqoc*resolve_url.png
-script.module.resolveurl-5.1.65*https://bit.ly/3OhhC7r*resolve_url.png
-script.module.resolveurl-5.1.66*https://bit.ly/3Oh4X4y*resolve_url.png
-script.module.resolveurl-5.1.67*https://bit.ly/3HMbr8Z*resolve_url.png
-script.module.resolveurl-5.1.68*https://bit.ly/3HL90n1*resolve_url.png
-script.module.resolveurl-5.1.69*https://bit.ly/3n8jP9c*resolve_url.png
-script.module.resolveurl-5.1.70*https://bit.ly/3ACNxtt*resolve_url.png
+script.module.resolveurl-5.1.85.nightly1*https://bit.ly/3AwwRVg*resolve_url.png
+[COLOR lime]===================================[/COLOR]*ext*äümodule.png
 script.module.resolveurl-5.1.71*https://bit.ly/3RnMILR*resolve_url.png
 script.module.resolveurl-5.1.72*https://bit.ly/3Axt8pE*resolve_url.png
 script.module.resolveurl-5.1.73*https://bit.ly/3pXKZkI*resolve_url.png
@@ -107,6 +95,10 @@ script.module.resolveurl-5.1.77*https://bit.ly/3MQdNGp*resolve_url.png
 script.module.resolveurl-5.1.78*https://bit.ly/3ThKNK4*resolve_url.png
 script.module.resolveurl-5.1.79*https://bit.ly/3CMRe0R*resolve_url.png
 script.module.resolveurl-5.1.80*https://bit.ly/3shZ1i4*resolve_url.png
+script.module.resolveurl-5.1.81*https://bit.ly/3ENyBMe*resolve_url.png
+script.module.resolveurl-5.1.82*https://bit.ly/3tJSMVl*resolve_url.png
+script.module.resolveurl-5.1.83*https://bit.ly/3UYFxMj*resolve_url.png
+script.module.resolveurl-5.1.84*https://bit.ly/3UPmy6O*resolve_url.png
 
 [COLOR lime]===================================[/COLOR]*ext*äümodule.png
 plugin.video.live.streamspro-2.8.1*https://bit.ly/3gwEA9U*LSPro.png
