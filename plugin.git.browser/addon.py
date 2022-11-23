@@ -58,7 +58,7 @@ def addonuri():
 	kodi.add_menu_item({'mode': 'search', 'type': 'username', 'query': 'a4k-openproject'}, {'title': '[COLOR darkorange]a4k-openproject Addons[/COLOR] - by a4k-openproject'},  icon='null')
 	kodi.add_menu_item({'mode': 'search', 'type': 'username', 'query': 'Wintermute0110'}, {'title': '[COLOR darkorange]Wintermute0110 Addons[/COLOR] - by Wintermute0110'},  icon='null')
 	kodi.add_menu_item({'mode': 'search', 'type': 'username', 'query': 'CastagnaIT'}, {'title': '[COLOR darkorange]CastagnaIT Addons[/COLOR] - by CastagnaIT'},  icon='null')
-
+	kodi.add_menu_item({'mode': 'search', 'type': 'username', 'query': 'Maven85'}, {'title': '[COLOR darkorange]Maven85 Addons[/COLOR] - by Maven85'},  icon='null')
 
 #	kodi.add_menu_item({'mode': 'search', 'type': 'username', 'query': 'covenantkodi'}, {'title': '[COLOR darkorange]Covenant[/COLOR] - by covenantkodi'},  icon='null')
 #	kodi.add_menu_item({'mode': 'search', 'type': 'username', 'query': 'Iceballs'}, {'title': '[COLOR darkorange]IceFilms[/COLOR] - by Iceballs'},  icon='null')
@@ -89,7 +89,7 @@ def users():
 	kodi.add_menu_item({'mode': 'search', 'type': 'username', 'query': 'a4k-openproject'}, {'title': 'a4k-openproject Addons'},  icon='null')
 	kodi.add_menu_item({'mode': 'search', 'type': 'username', 'query': 'Wintermute0110'}, {'title': 'Wintermute0110 Addons'},  icon='null')
 	kodi.add_menu_item({'mode': 'search', 'type': 'username', 'query': 'CastagnaIT'}, {'title': 'CastagnaIT Addons'},  icon='null')
-
+	kodi.add_menu_item({'mode': 'search', 'type': 'username', 'query': 'Maven85'}, {'title': 'Maven85 Addons'},  icon='null')
 
 
 #	kodi.add_menu_item({'mode': 'search', 'type': 'username', 'query': 'iwannabelikemike'}, {'title': 'iwannabelikemike'},  icon='null')
