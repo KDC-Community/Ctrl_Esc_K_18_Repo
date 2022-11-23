@@ -2,7 +2,7 @@
 <addon id="plugin.video.movieking"
 	name="Movie King"
 	version="1.0.5.1" 
-	provider-name="Litti19928|Loki1979">
+	provider-name="Loki1979">
 	<requires>
 		<!--py2 compliant-->
 		<import addon="xbmc.python" version="2.25.0"/>
@@ -15,9 +15,11 @@
 		<provides>video</provides>
 	</extension>
 	<extension point="xbmc.addon.metadata">
-	<summary></summary>
-	<description>Umsetzung der Website:
-https://movieking.cc/</description>
+	<summary>Umsetzung der Website:
+https://movieking.cc/</summary>
+	<description>
+[COLOR gold]Created by loki1979[/COLOR]
+[COLOR gold]PYTHON 2 AND 3</description>
 	<disclaimer></disclaimer>
 	<language></language>
 	<platform>all</platform>
