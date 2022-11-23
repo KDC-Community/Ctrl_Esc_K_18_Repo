@@ -462,7 +462,10 @@ https://megakino.co</summary>
 </addon>
 
 
-<addon author="Ctrl_Esc" id="plugin.git.browser" name="Github Browser" version="4.8.1">
+<addon id="plugin.git.browser"
+       version="4.8.1"
+	   name="Github Browser"
+	   author="TVADDONS.CO | Ctrl_Esc">
 	<requires>
 		<import addon="xbmc.python" version="2.1.0" />
 	</requires>
@@ -480,7 +483,4 @@ https://megakino.co</summary>
         <website></website>
     </extension>
 </addon>
-
-
-</addons>
 
