@@ -383,7 +383,7 @@ See README!
 <addon id="plugin.video.movieking"
 	name="Movie King"
 	version="1.0.5.1" 
-	provider-name="Litti19928|Loki1979">
+	provider-name="Loki1979">
 	<requires>
 		<!--py2 compliant-->
 		<import addon="xbmc.python" version="2.25.0"/>
@@ -396,9 +396,11 @@ See README!
 		<provides>video</provides>
 	</extension>
 	<extension point="xbmc.addon.metadata">
-	<summary></summary>
-	<description>Umsetzung der Website:
-https://movieking.cc/</description>
+	<summary>Umsetzung der Website:
+https://movieking.cc/</summary>
+	<description>
+[COLOR gold]Created by loki1979[/COLOR]
+[COLOR gold]PYTHON 2 AND 3</description>
 	<disclaimer></disclaimer>
 	<language></language>
 	<platform>all</platform>
@@ -422,7 +424,7 @@ https://movieking.cc/</description>
 <addon id="plugin.video.megakino"
 	name="MegaKino.co"
 	version="1.0.1" 
-	provider-name="litti19928|loki1979">
+	provider-name="loki1979">
 	<requires>
 		<!--py2 compliant-->
 		<import addon="xbmc.python" version="2.25.0"/>
@@ -438,7 +440,7 @@ https://movieking.cc/</description>
 	<summary>Umsetzung der Website:
 https://megakino.co</summary>
 	<description>
-[COLOR gold]Created by loki1979|litti19928[/COLOR]
+[COLOR gold]Created by loki1979[/COLOR]
 [COLOR gold]05.06.2022 16:00 PYTHON 2 AND 3[/COLOR]</description>
 	<disclaimer></disclaimer>
 	<language></language>
