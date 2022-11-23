@@ -2,7 +2,7 @@
 <addon id="plugin.video.megakino"
 	name="MegaKino.co"
 	version="1.0.1" 
-	provider-name="litti19928|loki1979">
+	provider-name="loki1979">
 	<requires>
 		<!--py2 compliant-->
 		<import addon="xbmc.python" version="2.25.0"/>
@@ -18,7 +18,7 @@
 	<summary>Umsetzung der Website:
 https://megakino.co</summary>
 	<description>
-[COLOR gold]Created by loki1979|litti19928[/COLOR]
+[COLOR gold]Created by loki1979[/COLOR]
 [COLOR gold]05.06.2022 16:00 PYTHON 2 AND 3[/COLOR]</description>
 	<disclaimer></disclaimer>
 	<language></language>
