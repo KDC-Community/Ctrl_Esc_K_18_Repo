@@ -90,7 +90,7 @@ def users():
 	kodi.add_menu_item({'mode': 'search', 'type': 'username', 'query': 'Wintermute0110'}, {'title': 'Wintermute0110 Addons'},  icon='null')
 	kodi.add_menu_item({'mode': 'search', 'type': 'username', 'query': 'CastagnaIT'}, {'title': 'CastagnaIT Addons'},  icon='null')
 	kodi.add_menu_item({'mode': 'search', 'type': 'username', 'query': 'Maven85'}, {'title': 'Maven85 Addons'},  icon='null')
-
+	kodi.add_menu_item({'mode': 'search', 'type': 'username', 'query': 'Zomboided'}, {'title': 'Zomboided Addons'},  icon='null')
 
 #	kodi.add_menu_item({'mode': 'search', 'type': 'username', 'query': 'iwannabelikemike'}, {'title': 'iwannabelikemike'},  icon='null')
 #	kodi.add_menu_item({'mode': 'search', 'type': 'username', 'query': 'teverz'}, {'title': 'teverz'},  icon='null')
