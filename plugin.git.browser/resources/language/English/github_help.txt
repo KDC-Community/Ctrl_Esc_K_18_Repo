@@ -1,4 +1,4 @@
-Welcome to the new GitHub Browser for Kodi. By using this tool, you'll be able to install any Kodi addon that is developed or distributed through a GitHub page.
+GitHub Browser for Kodi. By using this tool, you'll be able to install any Kodi addon that is developed or distributed through a GitHub page.
 
 Please use the Search by "GitHub Username" method for best results! 
 
@@ -6,7 +6,7 @@ Using the other search methods might not ensure you get the correct version, as 
 
 The original addon comes from TVADDONS.CO, but they quit the job and also the addon was outdated, too.
 
-Fresh feelings with new sources.
+Fresh feelings with new sources and without bloat.
 
 Have Fun!
 
