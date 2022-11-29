@@ -1,0 +1,9 @@
+GitHub Browser für Kodi. Using this tool, you'll be able to install any Kodi Repositories, Addons and Scripts, that is developed or distributed through any GitHub Developer.
+
+Please use the Search by GitHub Username method for best results! Using the other search methods might not ensure you get the correct version, as there are many forks of popular addons, with different versions and the same names being distributed all over the place.
+
+This is a fork without bloat and bullshit!°
+
+Have Fun.
+
+Ctrl_Esc

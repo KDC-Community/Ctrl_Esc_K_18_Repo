@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<addon id="plugin.github.browser"
+	   name="Github Browser"
+	   version="4.8.1"
+       author="Ctrl_Esc">
+	<requires>
+		<import addon="xbmc.python" version="2.1.0" />
+	</requires>
+	<extension library="service.py" point="xbmc.service" start="startup" />
+    <extension library="addon.py" point="xbmc.python.pluginsource">
+        <provides>executable</provides>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <summary lang="en">Install Kodi Addons Directly from GitHub</summary>
+        <description lang="en">Git Browser is n old and improved way to install or download any Kodi addon, from any developer, in a matter of seconds!</description>
+        <disclaimer lang="en">The author does not host or distribute any of the content displayed by this addon. The author does not have any affiliation with the content providers.</disclaimer>
+        <language>en</language>
+        <platform>all</platform>
+        <forum></forum>
+        <website></website>
+    </extension>
+</addon>
