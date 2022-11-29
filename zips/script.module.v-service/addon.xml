@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<addon id="script.module.v-service" name="V-Service" version="4.8.1" provider-name="The Dependencie Brothers From Another Mothers">
+<addon id="script.module.v-service"
+       name="V-Service"
+	   version="4.8.1"
+	   provider-name="The Dependencie Brothers From Another Mothers">
     <requires>
         <import addon="xbmc.python" version="2.1.0"/>
         <import addon="script.module.urlresolver"/>
