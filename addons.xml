@@ -115,7 +115,10 @@ The Dependencie Brother From Another Mother
 </addon>
 
 
-<addon id="script.module.v-service" name="V-Service" version="4.8.1" provider-name="The Dependencie Brothers From Another Mothers">
+<addon id="script.module.v-service"
+       name="V-Service"
+	   version="4.8.1"
+	   provider-name="The Dependencie Brothers From Another Mothers">
     <requires>
         <import addon="xbmc.python" version="2.1.0"/>
         <import addon="script.module.urlresolver"/>
@@ -142,7 +145,6 @@ Without the "video addon" you have no permission to access, no fun at all and no
         <disclaimer>Only For Administration Or Development Environment. The author does not host or distribute any of the content displayed by this addon. The author does not have any affiliation with the content providers. Only For Administration Or Development Environment.</disclaimer>
     </extension>
 </addon>
-
 
 
 <addon id="repository.ctrl_esc_K18" 
